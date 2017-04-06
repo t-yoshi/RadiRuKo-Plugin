@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head title="クラシック放送局">
+    <expansionState></expansionState>
+  </head>
+  <body>
+	<outline URL="ffhlsadts://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/llnw/bbc_radio_three.m3u8" icon="http://cdn-radiotime-logos.tunein.com/s24941.png" text="BBC 3 " type="audio" />
+	<outline URL="http://opml.radiotime.com/Tune.ashx?id=s2998&amp;partnerId=16" icon="http://cdn-radiotime-logos.tunein.com/s2998.png" text="ベルリン・ブランデンブルク放送 RBB Kulturradio" type="audio" />
+	<outline URL="http://opml.radiotime.com/Tune.ashx?id=s6628&amp;partnerId=16" icon="http://cdn-radiotime-logos.tunein.com/s6628.png" text="ドイッチュラントラジオ DeutschlandRadio Kultur" type="audio" />
+	<outline URL="http://opml.radiotime.com/Tune.ashx?id=s24908&amp;partnerId=16" icon="http://cdn-radiotime-logos.tunein.com/s24908.png" text="北ドイツ放送 NDR Kultur" type="audio" />
+	<outline URL="http://opml.radiotime.com/Tune.ashx?id=s9196&amp;partnerId=16" icon="http://cdn-radiotime-logos.tunein.com/s9196.png" text="中部ドイツ放送 MDR Kultur" type="audio" />
+	<outline URL="http://wdr-3-320.akacast.akamaistream.net/7/827/119437/v1/gnl.akacast.akamaistream.net/wdr-3-320" icon="http://cdn-radiotime-logos.tunein.com/s8294.png" text="西部ドイツ放送 WDR 3" type="audio" />
+	<outline URL="http://opml.radiotime.com/Tune.ashx?id=s20292&amp;partnerId=16" icon="http://cdn-radiotime-logos.tunein.com/s20292.png" text="南西ドイツ放送 SWR 2" type="audio" />
+	<outline URL="http://opml.radiotime.com/Tune.ashx?id=s44284&amp;partnerId=16" icon="http://cdn-radiotime-logos.tunein.com/s44284.png" text="バイエルン放送 BR Klassik" type="audio" />
+	<outline URL="http://opml.radiotime.com/Tune.ashx?id=s24895&amp;partnerId=16" icon="http://cdn-radiotime-logos.tunein.com/s24895.png" text="ザールブリュッケン放送 SR2" type="audio" />
+	<outline URL="http://opml.radiotime.com/Tune.ashx?id=s84492&amp;partnerId=16" icon="http://cdn-radiotime-logos.tunein.com/s84492.png" text="ヘッセン放送 HR2" type="audio" />
+	<outline URL="http://opml.radiotime.com/Tune.ashx?id=s37197&amp;partnerId=16" icon="http://cdn-radiotime-logos.tunein.com/s37197.png" text="デンマーク放送 DR P2" type="audio" />
+	<outline URL="http://opml.radiotime.com/Tune.ashx?id=s15260&amp;partnerId=16" icon="http://cdn-radiotime-logos.tunein.com/s15260.png" text="ノルウェー放送 NRK" type="audio" />
+	<outline URL="ffhls://sip-live.hds.adaptive.level3.net/hls-live/ruv-ras2/_definst_/live.m3u8" icon="http://cdn-radiotime-logos.tunein.com/s2541.png" text="アイスランド放送 RUV Rasar 1" type="audio" />
+	<outline URL="http://opml.radiotime.com/Tune.ashx?id=s65281&amp;partnerId=16" icon="http://cdn-radiotime-logos.tunein.com/s65281.png" text="フィンランド放送 YLE Radio 1" type="audio" />
+	<outline URL="http://opml.radiotime.com/Tune.ashx?id=s8514&amp;partnerId=16" icon="http://cdn-radiotime-logos.tunein.com/s8514.png" text="オーストリア放送 ORF O1" type="audio" />
+	<outline URL="http://opml.radiotime.com/Tune.ashx?id=s15504&amp;partnerId=16" icon="http://cdn-radiotime-logos.tunein.com/s15504.png" text="スイス・イタリア語放送 RSI Rete Due" type="audio" />
+	<outline URL="http://opml.radiotime.com/Tune.ashx?id=s24983&amp;partnerId=16" icon="http://cdn-radiotime-logos.tunein.com/s24983.png" text="スイス・ロマンド放送 RTS Espace 2" type="audio" />
+	<outline URL="http://opml.radiotime.com/Tune.ashx?id=s18553&amp;partnerId=16" icon="http://cdn-radiotime-logos.tunein.com/s18553.png" text="スイス・ドイツ語放送 Radio SRF 2 Kultur" type="audio" />
+	<outline URL="http://opml.radiotime.com/Tune.ashx?id=s25548&amp;partnerId=16" icon="http://cdn-radiotime-logos.tunein.com/s25548.png" text="オランダ放送 NPO Radio 4" type="audio" />
+	<outline URL="http://opml.radiotime.com/Tune.ashx?id=s6746&amp;partnerId=16" icon="http://cdn-radiotime-logos.tunein.com/s6746.png" text="ポルトガル放送 RTP Antena 2" type="audio" />
+	<outline URL="http://opml.radiotime.com/Tune.ashx?id=s15198&amp;partnerId=16" icon="http://cdn-radiotime-logos.tunein.com/s15198.png" text="フランス国営放送 Francemusique" type="audio" />
+	<outline URL="http://opml.radiotime.com/Tune.ashx?id=s1474&amp;partnerId=16" icon="http://cdn-radiotime-logos.tunein.com/s1474.png" text="スペイン国営放送 RTVE Radio Clasica" type="audio" />
+	<outline URL="http://opml.radiotime.com/Tune.ashx?id=s25211&amp;partnerId=16" icon="http://cdn-radiotime-logos.tunein.com/s25211.png" text="イタリア国営放送 RAI Radio 3" type="audio" />
+	<outline URL="http://opml.radiotime.com/Tune.ashx?id=s15707&amp;partnerId=16" icon="http://cdn-radiotime-logos.tunein.com/s15707.png" text="エストニア放送 ERR Klassika" type="audio" />
+	<outline URL="http://opml.radiotime.com/Tune.ashx?id=s15983&amp;partnerId=16" icon="http://cdn-radiotime-logos.tunein.com/s15983.png" text="ポーランド国営放送 Polskie Radio dwojka" type="audio" />
+	<outline URL="http://statslive.rtbf.be/playlist/musiq3/musiq3-128.aac/playlist.pls" icon="https://www.static.rtbf.be/news/common/images/radio/logo/fff/musiq3.png" text="ベルギー・フランス語放送 RTBF Musiq 3" type="audio" />
+	<outline URL="http://opml.radiotime.com/Tune.ashx?id=s18556&amp;partnerId=16" icon="http://cdn-radiotime-logos.tunein.com/s18556.png" text="ベルギー・オランダ語放送 Klara" type="audio" />
+	<outline URL="http://opml.radiotime.com/Tune.ashx?id=s99441&amp;partnerId=16" icon="http://cdn-radiotime-logos.tunein.com/s99441.png" text="オーストラリア ABC Classic FM" type="audio" />
+	<outline URL="http://opml.radiotime.com/Tune.ashx?id=s45474&amp;partnerId=16" icon="http://cdn-radiotime-logos.tunein.com/s45474.png" text="ニュージーランド放送 Radio New Zealand Concert" type="audio" />
+
+  </body>
+</opml>

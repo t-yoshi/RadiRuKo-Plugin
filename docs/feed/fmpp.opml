@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.1">
+  <head cachetime="86400" title="FM++ (64K ogg)">
+    <expansionState/>
+  </head>
+  <body>
+    <outline URL="http://fmasmo.fmplapla.com:8000/fmpp.ogg" icon="http://mysqueezebox.com/public/imageproxy?u=https%3A%2F%2Ffmplapla.com%2Ffm-asmo%2F%2Fimg%2Ficon_small.png" text="FMあすも" type="audio"/>
+    <outline URL="http://fmhanabi.fmplapla.com:8000/fmpp.ogg" icon="http://mysqueezebox.com/public/imageproxy?u=https%3A%2F%2Ffmplapla.com%2Ffm-hanabi%2F%2Fimg%2Ficon_small.png" text="FMはなび" type="audio"/>
+    <outline URL="http://fmnemaline.fmplapla.com:8000/fmpp.ogg" icon="http://mysqueezebox.com/public/imageproxy?u=https%3A%2F%2Ffmplapla.com%2Ffm-nemaline%2F%2Fimg%2Ficon_small.png" text="FMねまらいん" type="audio"/>
+    <outline URL="http://iidafm.fmplapla.com:8000/fmpp.ogg" icon="http://mysqueezebox.com/public/imageproxy?u=https%3A%2F%2Ffmplapla.com%2Fiida-fm%2F%2Fimg%2Ficon_small.png" text="いいだFM" type="audio"/>
+    <outline URL="http://radiotakasaki.fmplapla.com:8000/fmpp.ogg" icon="http://mysqueezebox.com/public/imageproxy?u=https%3A%2F%2Ffmplapla.com%2Fradio-takasaki%2F%2Fimg%2Ficon_small.png" text="ラジオ高崎" type="audio"/>
+    <outline URL="http://lcvfm.fmplapla.com:8000/fmpp.ogg" icon="http://mysqueezebox.com/public/imageproxy?u=https%3A%2F%2Ffmplapla.com%2Flcv-fm%2F%2Fimg%2Ficon_small.png" text="LCV-FM769" type="audio"/>
+    <outline URL="http://fmtomi.fmplapla.com:8000/fmpp.ogg" icon="http://mysqueezebox.com/public/imageproxy?u=https%3A%2F%2Ffmplapla.com%2Ffm-tomi%2F%2Fimg%2Ficon_small.png" text="FMとうみ" type="audio"/>
+    <outline URL="http://fmkulala857.fmplapla.com:8000/fmpp.ogg" icon="http://mysqueezebox.com/public/imageproxy?u=https%3A%2F%2Ffmplapla.com%2Ffm-kulala857%2F%2Fimg%2Ficon_small.png" text="FMくらら857" type="audio"/>
+    <outline URL="http://fmmyoko.fmplapla.com:8000/fmpp.ogg" icon="http://mysqueezebox.com/public/imageproxy?u=https%3A%2F%2Ffmplapla.com%2Ffm-myoko%2F%2Fimg%2Ficon_small.png" text="FMみょうこう" type="audio"/>
+    <outline URL="http://tees-843fm.fmplapla.com:8000/fmpp.ogg" icon="http://mysqueezebox.com/public/imageproxy?u=https%3A%2F%2Ffmplapla.com%2Ftees-843fm%2F%2Fimg%2Ficon_small.png" text="TEES-843FM" type="audio"/>
+    <outline URL="http://mediasfm.fmplapla.com:8000/fmpp.ogg" icon="http://mysqueezebox.com/public/imageproxy?u=https%3A%2F%2Ffmplapla.com%2Fmedias-fm%2F%2Fimg%2Ficon_small.png" text="メディアスFM" type="audio"/>
+    <outline URL="http://fmrara768.fmplapla.com:8000/fmpp.ogg" icon="http://mysqueezebox.com/public/imageproxy?u=https%3A%2F%2Ffmplapla.com%2Ffm-rara768%2F%2Fimg%2Ficon_small.png" text="FMらら76.8" type="audio"/>
+    <outline URL="http://fmyokkaichi.fmplapla.com:8000/fmpp.ogg" icon="http://mysqueezebox.com/public/imageproxy?u=https%3A%2F%2Ffmplapla.com%2Ffm-yokkaichi%2F%2Fimg%2Ficon_small.png" text="CTY-FM" type="audio"/>
+    <outline URL="http://pitchfm.fmplapla.com:8000/fmpp.ogg" icon="http://mysqueezebox.com/public/imageproxy?u=https%3A%2F%2Ffmplapla.com%2Fpitch-fm%2F%2Fimg%2Ficon_small.png" text="KATCH&amp;Pitch 地域情報" type="audio"/>
+    <outline URL="http://fmyumewave.fmplapla.com:8000/fmpp.ogg" icon="http://mysqueezebox.com/public/imageproxy?u=https%3A%2F%2Ffmplapla.com%2Ffm-yumewave%2F%2Fimg%2Ficon_small.png" text="ゆめウェーブ" type="audio"/>
+    <outline URL="http://fmshimabara.fmplapla.com:8000/fmpp.ogg" icon="http://mysqueezebox.com/public/imageproxy?u=https%3A%2F%2Ffmplapla.com%2Ffm-shimabara%2F%2Fimg%2Ficon_small.png" text="FMしまばら" type="audio"/>
+    <outline URL="http://fmkanoya.fmplapla.com:8000/fmpp.ogg" icon="http://mysqueezebox.com/public/imageproxy?u=https%3A%2F%2Ffmplapla.com%2Ffm-kanoya%2F%2Fimg%2Ficon_small.png" text="FMかのや" type="audio"/>
+    <outline URL="http://happyfm.fmplapla.com:8000/fmpp.ogg" icon="http://mysqueezebox.com/public/imageproxy?u=https%3A%2F%2Ffmplapla.com%2Fhappy-fm%2F%2Fimg%2Ficon_small.png" text="はっぴぃ！FM" type="audio"/>
+    <outline URL="http://cityfmmiyakonojyo.fmplapla.com:8000/fmpp.ogg" icon="http://mysqueezebox.com/public/imageproxy?u=https%3A%2F%2Ffmplapla.com%2Fcityfm-miyakonojyo%2F%2Fimg%2Ficon_small.png" text="シティエフエム都城" type="audio"/>
+    <outline URL="http://sunshinefm.fmplapla.com:8000/fmpp.ogg" icon="http://mysqueezebox.com/public/imageproxy?u=https%3A%2F%2Ffmplapla.com%2Fsunshine-fm%2F%2Fimg%2Ficon_small.png" text="サンシャインFM" type="audio"/>
+    <outline URL="http://fmhyuga.fmplapla.com:8000/fmpp.ogg" icon="http://mysqueezebox.com/public/imageproxy?u=https%3A%2F%2Ffmplapla.com%2Ffm-hyuga%2F%2Fimg%2Ficon_small.png" text="FMひゅうが" type="audio"/>
+    <outline URL="http://ebisufm.fmplapla.com:8000/fmpp.ogg" icon="http://mysqueezebox.com/public/imageproxy?u=https%3A%2F%2Ffmplapla.com%2Febisu-fm%2F%2Fimg%2Ficon_small.png" text="えびすFM" type="audio"/>
+    <outline URL="http://fmisahaya.fmplapla.com:8000/fmpp.ogg" icon="http://mysqueezebox.com/public/imageproxy?u=https%3A%2F%2Ffmplapla.com%2Ffm-isahaya%2F%2Fimg%2Ficon_small.png" text="エフエム諫早" type="audio"/>
+    <outline URL="http://saigaifm.fmplapla.com:8000/fmpp.ogg" icon="http://mysqueezebox.com/public/imageproxy?u=https%3A%2F%2Ffmplapla.com%2Fsaigai-fm%2F%2Fimg%2Ficon_small.png" text="益城さいがいFM" type="audio"/>
+  </body>
+</opml>
