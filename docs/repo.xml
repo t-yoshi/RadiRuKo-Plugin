@@ -5,15 +5,15 @@
  </details>
  <plugins>
    
-  <plugin name="RadiRuKo" version="5.1.2" target="win|unix|mac" minTarget="7.5" maxTarget="7.*">
+  <plugin name="RadiRuKo" version="5.2.0" target="win|unix|mac" minTarget="7.5" maxTarget="7.*">
    <title lang="EN">RadiRuKo-Basic</title>
    <desc lang="EN">Radiru and radiko plugin</desc>
    <desc lang="JA">らじるラジコ基本プラグイン</desc>
    <creator>t-yoshi</creator>
-   <url>http://t-yoshi.github.io/RadiRuKo-Plugin/release/v5/RadiRuKo-5.1.2.zip</url>
+   <url>http://t-yoshi.github.io/RadiRuKo-Plugin/release/v5/RadiRuKo-5.2.0.zip</url>
 
    <link>https://github.com/t-yoshi/RadiRuKo-Plugin</link>
-   <sha>fa53130068ff5a5477327f7327ef982bf5fbca64</sha>
+   <sha>a8e22308e69162ffa7f03427ed6d9844f7d9a659</sha>
   </plugin>
     
   <plugin name="RadiRuKoPr" version="5.1.0" target="win|unix|mac" minTarget="7.5" maxTarget="7.*">
@@ -27,16 +27,6 @@
    <sha>db5814ad7b0ef6cf9457136f9dba7dbc54c37fd2</sha>
   </plugin>
     
-  <plugin name="RakuFM" version="5.1.0" target="win|unix|mac" minTarget="7.5" maxTarget="7.*">
-   <title lang="EN">RadiRuKo-RakuFM</title>
-   <desc lang="EN">Rakuten FM Plugin</desc>
-   <desc lang="JA">楽天FMプラグイン</desc>
-   <creator>t-yoshi</creator>
-   <url>http://t-yoshi.github.io/RadiRuKo-Plugin/release/v5/RakuFM-5.1.0.zip</url>
-
-   <link>https://github.com/t-yoshi/RadiRuKo-Plugin</link>
-   <sha>fa05a96c4fa4aeece5fee892c59233134c369bc1</sha>
-  </plugin>
-    
+   
  </plugins>
 </extensions>
