@@ -50,7 +50,7 @@ td, th {
 
 """
 
-  print_dir("release/v5/*.zip")
+  print_dir("release/v6/*.zip")
   print "\n<br><br>\n"
   print_dir("release/src/*")
 
