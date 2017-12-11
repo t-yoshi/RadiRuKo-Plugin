@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <opml version="1.1">
-  <head cachetime="86400" title="Listen Radio (171110)">
+  <head cachetime="86400" title="Listen Radio (171212)">
     <expansionState/>
   </head>
   <body>
@@ -82,7 +82,6 @@
     <outline URL="ffmpegaac:http://mtist.as.smartstream.ne.jp/30088/livestream/playlist.m3u8#simulradio=1;icon=http%3A%2F%2Fsrve0g.mti.ne.jp%2Fyg_uta%2Fdata%2Flistenradio%2F30088r.png;title=FM%E3%81%AE%E3%81%B9%E3%81%8A%E3%81%8B" icon="http://srve0g.mti.ne.jp/yg_uta/data/listenradio/30088r.png" text="FMのべおか" type="audio"/>
     <outline URL="ffmpegaac:http://mtist.as.smartstream.ne.jp/30054/livestream/playlist.m3u8#simulradio=1;icon=http%3A%2F%2Fsrve0g.mti.ne.jp%2Fyg_uta%2Fdata%2Flistenradio%2F30054r.png;title=%E3%81%82%E3%81%BE%E3%81%BF%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0" icon="http://srve0g.mti.ne.jp/yg_uta/data/listenradio/30054r.png" text="あまみエフエム" type="audio"/>
     <outline URL="ffmpegaac:http://mtist.as.smartstream.ne.jp/30011/livestream/playlist.m3u8#simulradio=1;icon=http%3A%2F%2Fsrve0g.mti.ne.jp%2Fyg_uta%2Fdata%2Flistenradio%2F30011r.png;title=FM%E3%81%86%E3%82%8B%E3%81%BE" icon="http://srve0g.mti.ne.jp/yg_uta/data/listenradio/30011r.png" text="FMうるま" type="audio"/>
-    <outline URL="ffmpegaac:http://mtist.as.smartstream.ne.jp/30066/livestream/playlist.m3u8#simulradio=1;icon=http%3A%2F%2Fsrve0g.mti.ne.jp%2Fyg_uta%2Fdata%2Flistenradio%2F30066r.png;title=%E3%82%AA%E3%82%AD%E3%83%A9%E3%82%B8" icon="http://srve0g.mti.ne.jp/yg_uta/data/listenradio/30066r.png" text="オキラジ" type="audio"/>
     <outline URL="ffmpegaac:http://mtist.as.smartstream.ne.jp/30003/livestream/playlist.m3u8#simulradio=1;icon=http%3A%2F%2Fsrve0g.mti.ne.jp%2Fyg_uta%2Fdata%2Flistenradio%2F30003r.png;title=FM%E3%83%8B%E3%83%A9%E3%82%A4" icon="http://srve0g.mti.ne.jp/yg_uta/data/listenradio/30003r.png" text="FMニライ" type="audio"/>
     <outline URL="ffmpegaac:http://mtist.as.smartstream.ne.jp/30083/livestream/playlist.m3u8#simulradio=1;icon=http%3A%2F%2Fsrve0g.mti.ne.jp%2Fyg_uta%2Fdata%2Flistenradio%2F30083r.png;title=FM%E3%81%A8%E3%82%88%E3%81%BF" icon="http://srve0g.mti.ne.jp/yg_uta/data/listenradio/30083r.png" text="FMとよみ" type="audio"/>
     <outline URL="ffmpegaac:http://mtist.as.smartstream.ne.jp/30055/livestream/playlist.m3u8#simulradio=1;icon=http%3A%2F%2Fsrve0g.mti.ne.jp%2Fyg_uta%2Fdata%2Flistenradio%2F30055r.png;title=FM%E3%81%AA%E3%82%93%E3%81%98%E3%82%87%E3%81%86" icon="http://srve0g.mti.ne.jp/yg_uta/data/listenradio/30055r.png" text="FMなんじょう" type="audio"/>
