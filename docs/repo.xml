@@ -5,48 +5,61 @@
  </details>
  <plugins>
    
-  <plugin name="RadiRuKo" version="6.0.0" target="win|unix|mac" minTarget="7.6" maxTarget="7.*">
+  <plugin name="RadiRuKo" version="6.1.0" target="win|unix|mac" minTarget="7.6" maxTarget="7.*">
    <title lang="EN">RadiRuKo-Basic</title>
    <desc lang="EN">Radiru and radiko plugin</desc>
    <desc lang="JA">らじるラジコ基本プラグイン</desc>
    <creator>t-yoshi</creator>
-   <url>http://t-yoshi.github.io/RadiRuKo-Plugin/release/v6/RadiRuKo-6.0.0.zip</url>
+   <url>http://t-yoshi.github.io/RadiRuKo-Plugin/release/v6/RadiRuKo-6.1.0.zip</url_>
 
    <link>https://github.com/t-yoshi/RadiRuKo-Plugin</link>
-   <sha>38c90bb49518ac47db6a55e098f86fae45ce46bd</sha>
+   <sha>449aa0b7fc835e5226fa7683c7b015be18eca6fb</sha>
   </plugin>
     
-  <plugin name="RadiRuKoPr" version="6.0.0" target="win|unix|mac" minTarget="7.6" maxTarget="7.*">
+  <plugin name="RadiRuKoPr" version="6.1.0" target="win|unix|mac" minTarget="7.6" maxTarget="7.*">
    <title lang="EN">RadiRuKo-Premium</title>
    <desc lang="EN">radiko premium plugin</desc>
    <desc lang="JA">ラジコプレミアムプラグイン</desc>
    <creator>t-yoshi</creator>
-   <url>http://t-yoshi.github.io/RadiRuKo-Plugin/release/v6/RadiRuKoPr-6.0.0.zip</url>
+   <url>http://t-yoshi.github.io/RadiRuKo-Plugin/release/v6/RadiRuKoPr-6.1.0.zip</url_>
 
    <link>https://github.com/t-yoshi/RadiRuKo-Plugin</link>
-   <sha>9856cc53a489f7b12c98962e394dd9642e47665f</sha>
+   <sha>03d5cef73776fea9af775b1a7eda2beca6345472</sha>
   </plugin>
     
-  <plugin name="RadiRuKoTf" version="6.0.0" target="win|unix|mac" minTarget="7.6" maxTarget="7.*">
+  <plugin name="RadiRuKoTf" version="6.1.0" target="win|unix|mac" minTarget="7.6" maxTarget="7.*">
    <title lang="EN">RadiRuKo-TimeFree</title>
-   <desc lang="EN">radiko TimeFree Plugin (Test)</desc>
-   <desc lang="JA">ラジコタイムフリープラグイン (Test)</desc>
+   <desc lang="EN">radiko TimeFree Plugin</desc>
+   <desc lang="JA">ラジコタイムフリープラグイン</desc>
    <creator>t-yoshi</creator>
-   <url>http://t-yoshi.github.io/RadiRuKo-Plugin/release/v6/RadiRuKoTf-6.0.0.zip</url>
+   <url>http://t-yoshi.github.io/RadiRuKo-Plugin/release/v6/RadiRuKoTf-6.1.0.zip</url_>
+
    <link>https://github.com/t-yoshi/RadiRuKo-Plugin</link>
-   <sha>c8037682b71b0caf6c7f740990cb6c567ae286ab</sha>
+   <sha>d08ce112186c5e0ad5c5debe9ac661942295675e</sha>
   </plugin>
     
-  <plugin name="RadiRuKoFmpp" version="6.0.0" target="win|unix|mac" minTarget="7.6" maxTarget="7.*">
+  <plugin name="RadiRuKoFmpp" version="6.1.0" target="win|unix|mac" minTarget="7.6" maxTarget="7.*">
    <title lang="EN">RadiRuKo-FM++</title>
-   <desc lang="EN">FM++ Plugin (Test)</desc>
-   <desc lang="JA">FM++プラグイン (Test)</desc>
+   <desc lang="EN">FM++ Plugin</desc>
+   <desc lang="JA">FM++プラグイン</desc>
    <creator>t-yoshi</creator>
-   <url>http://t-yoshi.github.io/RadiRuKo-Plugin/release/v6/RadiRuKoFmpp-6.0.0.zip</url>
-   <link>https://github.com/t-yoshi/RadiRuKo-Plugin</link>
-   <sha>e5863f0aabc6f471c889a4d2b8d37fdf731e20c6</sha>
-  </plugin>
+   <url>http://t-yoshi.github.io/RadiRuKo-Plugin/release/v6/RadiRuKoFmpp-6.1.0.zip</url_>
 
-   
+   <link>https://github.com/t-yoshi/RadiRuKo-Plugin</link>
+   <sha>5b0e6de0a310f959fa2b78f266e9b05aa95e0fad</sha>
+  </plugin>
+    
+  <plugin name="RadiRuKoRo" version="6.1.0" target="win|unix|mac" minTarget="7.6" maxTarget="7.*">
+   <title lang="EN">RadiRuKo-RadiruOndemand</title>
+   <desc lang="EN">Radiru Ondemand</desc>
+   <desc lang="JA">らじる聞き逃しプラグイン</desc>
+   <creator>t-yoshi</creator>
+   <url>http://t-yoshi.github.io/RadiRuKo-Plugin/release/v6/RadiRuKoRo-6.1.0.zip</url_>
+
+   <link>https://github.com/t-yoshi/RadiRuKo-Plugin</link>
+   <sha>ddf0e2b2543f97e4e6690d29e8fc87989c417f6d</sha>
+  </plugin>
+    
  </plugins>
 </extensions>
+
