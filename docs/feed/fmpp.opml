@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <opml version="1.1">
-  <head cachetime="7200" title="FM++ (190425)">
+  <head cachetime="7200" title="FM++ (190529)">
     <expansionState/>
   </head>
   <body>
     <outline URL="fmpp://fmhanabi/#simulradio=1;icon=http%3A%2F%2Fmysqueezebox.com%2Fpublic%2Fimageproxy%3Fu%3Dhttps%253A%252F%252Ffmplapla.com%252Ffmhanabi%252Fimg%252Ficon.png;title=FM%E3%81%AF%E3%81%AA%E3%81%B3;homepage=http%3A%2F%2Ffmhanabi.com" icon="http://mysqueezebox.com/public/imageproxy?u=https%3A%2F%2Ffmplapla.com%2Ffmhanabi%2Fimg%2Ficon.png" text="FMはなび" type="audio"/>
     <outline URL="fmpp://fmnemaline/#simulradio=1;icon=http%3A%2F%2Fmysqueezebox.com%2Fpublic%2Fimageproxy%3Fu%3Dhttps%253A%252F%252Ffmplapla.com%252Ffmnemaline%252Fimg%252Ficon.png;title=FM%E3%81%AD%E3%81%BE%E3%82%89%E3%81%84%E3%82%93;homepage=http%3A%2F%2Ffm-nemaline.com%2F" icon="http://mysqueezebox.com/public/imageproxy?u=https%3A%2F%2Ffmplapla.com%2Ffmnemaline%2Fimg%2Ficon.png" text="FMねまらいん" type="audio"/>
-    <outline URL="fmpp://fmasmo/#simulradio=1;icon=http%3A%2F%2Fmysqueezebox.com%2Fpublic%2Fimageproxy%3Fu%3Dhttps%253A%252F%252Ffmplapla.com%252Ffmasmo%252Fimg%252Ficon.png;title=FM%E3%81%82%E3%81%99%E3%82%82;homepage=http%3A%2F%2Femus.jimdo.com%2F" icon="http://mysqueezebox.com/public/imageproxy?u=https%3A%2F%2Ffmplapla.com%2Ffmasmo%2Fimg%2Ficon.png" text="FMあすも" type="audio"/>
+    <outline URL="fmpp://fmasmo/#simulradio=1;icon=http%3A%2F%2Fmysqueezebox.com%2Fpublic%2Fimageproxy%3Fu%3Dhttps%253A%252F%252Ffmplapla.com%252Ffmasmo%252Fimg%252Ficon.png;title=FM%E3%81%82%E3%81%99%E3%82%82;homepage=https%3A%2F%2Ffm-asmo.com%2F" icon="http://mysqueezebox.com/public/imageproxy?u=https%3A%2F%2Ffmplapla.com%2Ffmasmo%2Fimg%2Ficon.png" text="FMあすも" type="audio"/>
     <outline URL="fmpp://bikkifm/#simulradio=1;icon=http%3A%2F%2Fmysqueezebox.com%2Fpublic%2Fimageproxy%3Fu%3Dhttps%253A%252F%252Ffmplapla.com%252Fbikkifm%252Fimg%252Ficon.png;title=Bikki-FM;homepage=http%3A%2F%2Foosaki-fm.or.jp%2F" icon="http://mysqueezebox.com/public/imageproxy?u=https%3A%2F%2Ffmplapla.com%2Fbikkifm%2Fimg%2Ficon.png" text="Bikki-FM" type="audio"/>
     <outline URL="fmpp://fmaozora/#simulradio=1;icon=http%3A%2F%2Fmysqueezebox.com%2Fpublic%2Fimageproxy%3Fu%3Dhttps%253A%252F%252Ffmplapla.com%252Ffmaozora%252Fimg%252Ficon.png;title=FM%E3%81%82%E3%81%8A%E3%81%9E%E3%82%89;homepage=https%3A%2F%2Ffmaozora.com" icon="http://mysqueezebox.com/public/imageproxy?u=https%3A%2F%2Ffmplapla.com%2Ffmaozora%2Fimg%2Ficon.png" text="FMあおぞら" type="audio"/>
     <outline URL="fmpp://fmtokamachi/#simulradio=1;icon=http%3A%2F%2Fmysqueezebox.com%2Fpublic%2Fimageproxy%3Fu%3Dhttps%253A%252F%252Ffmplapla.com%252Ffmtokamachi%252Fimg%252Ficon.png;title=FM%E3%81%A8%E3%81%8A%E3%81%8B%E3%81%BE%E3%81%A1;homepage=http%3A%2F%2Fwww.fm-tokamachi.com" icon="http://mysqueezebox.com/public/imageproxy?u=https%3A%2F%2Ffmplapla.com%2Ffmtokamachi%2Fimg%2Ficon.png" text="FMとおかまち" type="audio"/>
