@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <opml version="1.1">
-  <head cachetime="7200" title="サイマルラジオ (190614)">
+  <head cachetime="7200" title="サイマルラジオ (190617)">
     <expansionState/>
   </head>
   <body>
@@ -20,6 +20,7 @@
     <outline URL="ffmpegaac:http://musicbird-hls.leanstream.co/musicbird/JCB001.stream/playlist.m3u8#simulradio=1;icon=https%3A%2F%2Fwww.jcbasimul.com%2Fwp2018%2Fwp-content%2Fuploads%2F2018%2F03%2Farea01_fmhana.png;title=FM%E3%81%AF%E3%81%AA;homepage=http%3A%2F%2Ffmhana.jp" icon="https://www.jcbasimul.com/wp2018/wp-content/uploads/2018/03/area01_fmhana.png" text="FMはな　[64k 北海道]" type="audio" bitrate="64"/>
     <outline URL="ffmpegaac:http://musicbird-hls.leanstream.co/musicbird/JCB002.stream/playlist.m3u8#simulradio=1;icon=https%3A%2F%2Fwww.jcbasimul.com%2Fwp2018%2Fwp-content%2Fuploads%2F2018%2F03%2Farea01_fmmoeru.png;title=%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0%E3%82%82%E3%81%88%E3%82%8B;homepage=http%3A%2F%2Fwww.moeru.fm%2F" icon="https://www.jcbasimul.com/wp2018/wp-content/uploads/2018/03/area01_fmmoeru.png" text="エフエムもえる　[64k 北海道]" type="audio" bitrate="64"/>
     <outline URL="ffmpegaac:http://musicbird-hls.leanstream.co/musicbird/JCB003.stream/playlist.m3u8#simulradio=1;icon=https%3A%2F%2Fwww.jcbasimul.com%2Fwp2018%2Fwp-content%2Fuploads%2F2018%2F03%2Farea01_airtesshi.jpg;title=Air%E3%81%A6%E3%81%A3%E3%81%97;homepage=http%3A%2F%2Fwww.nayoro.fm%2F" icon="https://www.jcbasimul.com/wp2018/wp-content/uploads/2018/03/area01_airtesshi.jpg" text="Airてっし　[64k 北海道]" type="audio" bitrate="64"/>
+    <outline URL="ffmpegaac:https://live-free1.videog.jp/live/_definst_/o-6vWWxUH1Ga/playlist.m3u8#simulradio=1;icon=https%3A%2F%2Fwww.videog.jp%2Fmedia%2Fstorage5%2F83%2F20%2Fo-6vWWxUH1Ga%2Fo.jpg;title=%E3%81%95%E3%81%A3%E3%81%BD%E3%82%8D%E6%9D%91%E3%83%A9%E3%82%B8%E3%82%AA;homepage=https%3A%2F%2Fsapporomura-radio.jp%2F" icon="https://www.videog.jp/media/storage5/83/20/o-6vWWxUH1Ga/o.jpg" text="さっぽろ村ラジオ　[札幌市/北海道]" type="audio"/>
     <outline URL="http://www.simulradio.info/asx/fmmotcom.asx#simulradio=1;icon=http%3A%2F%2Fwww.simulradio.jp%2Fdata%2F8.jpg;title=%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0%20%E3%83%A2%E3%83%83%E3%83%88%E3%82%B3%E3%83%A0;homepage=http%3A%2F%2Fwww.fm-mot.com%2F" icon="http://www.simulradio.jp/data/8.jpg" text="エフエム モットコム　[24k 本宮市/東北]" type="audio" bitrate="24" textkey="2"/>
     <outline URL="http://www.simulradio.info/asx/fm-iwaki.asx#simulradio=1;icon=http%3A%2F%2Fwww.simulradio.jp%2Fdata%2F34.jpg;title=FM%E3%81%84%E3%82%8F%E3%81%8D;homepage=http%3A%2F%2Fwww.fm-iwaki.co.jp%2Fcgi-bin%2FWebObjects%2F1201dac04a1.woa%2F" icon="http://www.simulradio.jp/data/34.jpg" text="FMいわき　[64k いわき市/東北]" type="audio" bitrate="64"/>
     <outline URL="http://hdv3.nkansai.tv/aizu#simulradio=1;icon=http%3A%2F%2Fwww.simulradio.jp%2Fdata%2F52.jpg;title=%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0%E4%BC%9A%E6%B4%A5;homepage=http%3A%2F%2Fwww.fmaizu.com%2Findex.shtm" icon="http://www.simulradio.jp/data/52.jpg" text="エフエム会津　[64k 会津若松市/東北]" type="audio" bitrate="64"/>
