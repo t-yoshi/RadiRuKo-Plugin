@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <opml version="1.1">
-  <head cachetime="7200" title="Listen Radio (190803)">
+  <head cachetime="7200" title="Listen Radio (190829)">
     <expansionState/>
   </head>
   <body>
@@ -54,6 +54,7 @@
     <outline URL="ffmpegaac:http://mtist.as.smartstream.ne.jp/30081/livestream/playlist.m3u8#simulradio=1;icon=http%3A%2F%2Flistenradio.jp%2Fimg%2Frslogo%2F30081r.png;title=FM%E6%98%9F%E7%A9%BA%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%28%E5%85%AB%E7%8E%8B%E5%AD%90FM%29" icon="http://listenradio.jp/img/rslogo/30081r.png" text="FM星空ステーション(八王子FM)" type="audio"/>
     <outline URL="ffmpegaac:http://mtist.as.smartstream.ne.jp/30046/livestream/playlist.m3u8#simulradio=1;icon=http%3A%2F%2Flistenradio.jp%2Fimg%2Frslogo%2F30046r.png;title=%E3%81%8B%E3%82%8F%E3%81%95%E3%81%8D%EF%BC%A6%EF%BC%AD" icon="http://listenradio.jp/img/rslogo/30046r.png" text="かわさきＦＭ" type="audio"/>
     <outline URL="ffmpegaac:http://mtist.as.smartstream.ne.jp/30061/livestream/playlist.m3u8#simulradio=1;icon=http%3A%2F%2Flistenradio.jp%2Fimg%2Frslogo%2F30061r.png;title=FM%E3%82%B5%E3%83%AB%E3%83%BC%E3%82%B9" icon="http://listenradio.jp/img/rslogo/30061r.png" text="FMサルース" type="audio"/>
+    <outline URL="ffmpegaac:http://mtist.as.smartstream.ne.jp/30065/livestream/playlist.m3u8#simulradio=1;icon=http%3A%2F%2Flistenradio.jp%2Fimg%2Frslogo%2F30065r.png;title=%E3%83%9E%E3%83%AA%E3%83%B3FM" icon="http://listenradio.jp/img/rslogo/30065r.png" text="マリンFM" type="audio"/>
     <outline URL="ffmpegaac:http://mtist.as.smartstream.ne.jp/30064/livestream/playlist.m3u8#simulradio=1;icon=http%3A%2F%2Flistenradio.jp%2Fimg%2Frslogo%2F30064r.png;title=%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0%E6%88%B8%E5%A1%9A" icon="http://listenradio.jp/img/rslogo/30064r.png" text="エフエム戸塚" type="audio"/>
     <outline URL="ffmpegaac:http://mtist.as.smartstream.ne.jp/30080/livestream/playlist.m3u8#simulradio=1;icon=http%3A%2F%2Flistenradio.jp%2Fimg%2Frslogo%2F30080r.png;title=%EF%BC%A6%EF%BC%AD%EF%BC%A8%EF%BC%AF%EF%BC%B4%EF%BC%98%EF%BC%93%EF%BC%99%EF%BC%88%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0%E3%81%95%E3%81%8C%E3%81%BF%EF%BC%89" icon="http://listenradio.jp/img/rslogo/30080r.png" text="ＦＭＨＯＴ８３９（エフエムさがみ）" type="audio"/>
     <outline URL="ffmpegaac:http://mtist.as.smartstream.ne.jp/30057/livestream/playlist.m3u8#simulradio=1;icon=http%3A%2F%2Flistenradio.jp%2Fimg%2Frslogo%2F30057r.png;title=%EF%BC%A6%EF%BC%AD%E3%82%AB%E3%82%AA%E3%83%B3" icon="http://listenradio.jp/img/rslogo/30057r.png" text="ＦＭカオン" type="audio"/>
@@ -94,6 +95,7 @@
     <outline URL="ffmpegaac:http://mtist.as.smartstream.ne.jp/30083/livestream/playlist.m3u8#simulradio=1;icon=http%3A%2F%2Flistenradio.jp%2Fimg%2Frslogo%2F30083r.png;title=FM%E3%81%A8%E3%82%88%E3%81%BF" icon="http://listenradio.jp/img/rslogo/30083r.png" text="FMとよみ" type="audio"/>
     <outline URL="ffmpegaac:http://mtist.as.smartstream.ne.jp/30069/livestream/playlist.m3u8#simulradio=1;icon=http%3A%2F%2Flistenradio.jp%2Fimg%2Frslogo%2F30069r.png;title=FM%E3%81%84%E3%81%97%E3%81%8C%E3%81%8D%E3%82%B5%E3%83%B3%E3%82%B5%E3%83%B3%E3%83%A9%E3%82%B8%E3%82%AA" icon="http://listenradio.jp/img/rslogo/30069r.png" text="FMいしがきサンサンラジオ" type="audio"/>
     <outline URL="ffmpegaac:http://mtist.as.smartstream.ne.jp/30099/livestream/playlist.m3u8#simulradio=1;icon=http%3A%2F%2Flistenradio.jp%2Fimg%2Frslogo%2F30099r.png;title=%E8%A9%A6%E9%A8%93%E6%94%BE%E9%80%81A" icon="http://listenradio.jp/img/rslogo/30099r.png" text="試験放送A" type="audio"/>
+    <outline URL="ffmpegaac:http://mtist.as.smartstream.ne.jp/20003/livestream/playlist.m3u8#simulradio=1;icon=http%3A%2F%2Flistenradio.jp%2Fimg%2Frslogo%2F20003r.png;title=%E3%83%AA%E3%82%B9%E3%83%A9%E3%82%B8%E5%AF%84%E5%B8%AD" icon="http://listenradio.jp/img/rslogo/20003r.png" text="リスラジ寄席" type="audio"/>
     <outline URL="ffmpegaac:http://mtist.as.smartstream.ne.jp/20005/livestream/playlist.m3u8#simulradio=1;icon=http%3A%2F%2Flistenradio.jp%2Fimg%2Frslogo%2F20005r.png;title=%E8%A9%A6%E9%A8%93%E6%94%BE%E9%80%81" icon="http://listenradio.jp/img/rslogo/20005r.png" text="試験放送" type="audio"/>
   </body>
 </opml>
