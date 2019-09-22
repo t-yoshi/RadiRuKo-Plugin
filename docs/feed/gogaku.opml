@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head title="語学">
+    <expansionState></expansionState>
+  </head>
+  <body>
+
+	<outline text="基礎英語0" URL="https://cgi2.nhk.or.jp/gogaku/st/xml/english/basic0/listdataflv.xml"/>
+	<outline text="基礎英語1" URL="https://cgi2.nhk.or.jp/gogaku/st/xml/english/basic1/listdataflv.xml"/>
+	<outline text="基礎英語2" URL="https://cgi2.nhk.or.jp/gogaku/st/xml/english/basic2/listdataflv.xml"/>
+	<outline text="基礎英語3" URL="https://cgi2.nhk.or.jp/gogaku/st/xml/english/basic3/listdataflv.xml"/>
+	<outline text="ラジオ英会話" URL="https://cgi2.nhk.or.jp/gogaku/st/xml/english/kaiwa/listdataflv.xml"/>
+	<outline text="ボキャブライダー" URL="https://cgi2.nhk.or.jp/gogaku/st/xml/english/vr-radio/listdataflv.xml"/>
+	<outline text="エンジョイ・シンプル・イングリッシュ" URL="https://cgi2.nhk.or.jp/gogaku/st/xml/english/enjoy/listdataflv.xml"/>
+	<outline text="英会話タイムトライアル" URL="https://cgi2.nhk.or.jp/gogaku/st/xml/english/timetrial/listdataflv.xml"/>
+	<outline text="高校生からはじめる現代英語" URL="https://cgi2.nhk.or.jp/gogaku/st/xml/english/gendai/listdataflv.xml"/>
+	<outline text="遠山顕の英会話楽習" URL="https://cgi2.nhk.or.jp/gogaku/st/xml/english/gakusyu/listdataflv.xml"/>
+	<outline text="入門ビジネス英語" URL="https://cgi2.nhk.or.jp/gogaku/st/xml/english/business1/listdataflv.xml"/>
+	<outline text="実践ビジネス英語" URL="https://cgi2.nhk.or.jp/gogaku/st/xml/english/business2/listdataflv.xml"/>
+	<outline text="まいにち中国語" URL="https://cgi2.nhk.or.jp/gogaku/st/xml/chinese/kouza/listdataflv.xml"/>
+	<outline text="レベルアップ 中国語" URL="https://cgi2.nhk.or.jp/gogaku/st/xml/chinese/levelup/listdataflv.xml"/>
+	<outline text="おもてなしの中国語" URL="https://cgi2.nhk.or.jp/gogaku/st/xml/chinese/omotenashi/listdataflv.xml"/>
+	<outline text="まいにちハングル講座" URL="https://cgi2.nhk.or.jp/gogaku/st/xml/hangeul/kouza/listdataflv.xml"/>
+	<outline text="レベルアップ ハングル講座" URL="https://cgi2.nhk.or.jp/gogaku/st/xml/hangeul/levelup/listdataflv.xml"/>
+	<outline text="おもてなしのハングル" URL="https://cgi2.nhk.or.jp/gogaku/st/xml/hangeul/omotenashi/listdataflv.xml"/>
+	<outline text="まいにちイタリア語（入門編）" URL="https://cgi2.nhk.or.jp/gogaku/st/xml/italian/kouza/listdataflv.xml"/>
+	<outline text="まいにちイタリア語（応用編）" URL="https://cgi2.nhk.or.jp/gogaku/st/xml/italian/kouza2/listdataflv.xml"/>
+	<outline text="まいにちドイツ語（入門編）" URL="https://cgi2.nhk.or.jp/gogaku/st/xml/german/kouza/listdataflv.xml"/>
+	<outline text="まいにちドイツ語（応用編）" URL="https://cgi2.nhk.or.jp/gogaku/st/xml/german/kouza2/listdataflv.xml"/>
+	<outline text="まいにちフランス語（入門編）" URL="https://cgi2.nhk.or.jp/gogaku/st/xml/french/kouza/listdataflv.xml"/>
+	<outline text="まいにちフランス語（応用編）" URL="https://cgi2.nhk.or.jp/gogaku/st/xml/french/kouza2/listdataflv.xml"/>
+	<outline text="まいにちスペイン語（初級編）" URL="https://cgi2.nhk.or.jp/gogaku/st/xml/spanish/kouza/listdataflv.xml"/>
+	<outline text="まいにちスペイン語（中級編）" URL="https://cgi2.nhk.or.jp/gogaku/st/xml/spanish/kouza2/listdataflv.xml"/>
+	<outline text="まいにちロシア語（入門編）" URL="https://cgi2.nhk.or.jp/gogaku/st/xml/russian/kouza/listdataflv.xml"/>
+	<outline text="まいにちロシア語（応用編）" URL="https://cgi2.nhk.or.jp/gogaku/st/xml/russian/kouza2/listdataflv.xml"/>
+
+  </body>
+</opml>
+
