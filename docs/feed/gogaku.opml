@@ -10,7 +10,7 @@
 	<outline text="基礎英語2" URL="https://cgi2.nhk.or.jp/gogaku/st/xml/english/basic2/listdataflv.xml" duration="900"/>
 	<outline text="基礎英語3" URL="https://cgi2.nhk.or.jp/gogaku/st/xml/english/basic3/listdataflv.xml" duration="900"/>
 	<outline text="ラジオ英会話" URL="https://cgi2.nhk.or.jp/gogaku/st/xml/english/kaiwa/listdataflv.xml" duration="900"/>
-	<outline text="ボキャブライダー" URL="https://cgi2.nhk.or.jp/gogaku/st/xml/english/vr-radio/listdataflv.xml" duration="900"/>
+	<outline text="ボキャブライダー" URL="https://cgi2.nhk.or.jp/gogaku/st/xml/english/vr-radio/listdataflv.xml" duration="300"/>
 	<outline text="エンジョイ・シンプル・イングリッシュ" URL="https://cgi2.nhk.or.jp/gogaku/st/xml/english/enjoy/listdataflv.xml" duration="300"/>
 	<outline text="英会話タイムトライアル" URL="https://cgi2.nhk.or.jp/gogaku/st/xml/english/timetrial/listdataflv.xml" duration="600"/>
 	<outline text="高校生からはじめる現代英語" URL="https://cgi2.nhk.or.jp/gogaku/st/xml/english/gendai/listdataflv.xml" duration="900"/>
