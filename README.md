@@ -5,4 +5,4 @@
 
 * 詳しくは、[ReadMe](https://github.com/t-yoshi/RadiRuKo-Plugin/wiki)  
 * [動作環境について](https://github.com/t-yoshi/RadiRuKo-Plugin/wiki/Environment) [配布元](http://t-yoshi.github.io/RadiRuKo-Plugin/)
-* バージョン 6.1(2018-09-18)  [更新履歴](https://github.com/t-yoshi/RadiRuKo-Plugin/wiki/ChangeLog)
+* バージョン 7.0(2019-10-05)  [更新履歴](https://github.com/t-yoshi/RadiRuKo-Plugin/wiki/ChangeLog)
