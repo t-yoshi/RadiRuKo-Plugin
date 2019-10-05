@@ -8,7 +8,7 @@ def calc_sha1(path):
   fd = open(path, "rb")
   while 1:
     b = fd.read(2048)
-    if b == "":
+    if len(b) == 0:
       break
     s.update(b)
 
@@ -16,20 +16,20 @@ def calc_sha1(path):
 
 def print_dir(dir):
   files = glob.glob(dir)
-  print "<h4>%s</h4>" % os.path.dirname(dir)
-  print "<table>"
+  print("<h4>%s</h4>" % os.path.dirname(dir))
+  print("<table>")
   for file in sorted(files):
     href = file.replace(os.sep,"/")
     name = os.path.basename(file)
     size = os.path.getsize(file)
     sha1 = calc_sha1(file)
 
-    print " <tr><td><a href=%s>%s</a><td align=right>%d<td>%s" % (href, name, size, sha1)
-  print "</table>"
+    print(" <tr><td><a href=%s>%s</a><td align=right>%d<td>%s" % (href, name, size, sha1))
+  print("</table>")
 
 
 def main():
-  print """
+  print ("""
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf8">
@@ -48,15 +48,13 @@ td, th {
 
 <h2>らじるこプラグイン ファイル置き場</h2><br><br>
 
-"""
+""")
 
-  print_dir("release/v6/*.zip")
-  print "\n<br><br>\n"
+  print_dir("release/v7/*.zip")
+  print("\n<br><br>\n")
   print_dir("release/src/*")
 
 
-
-main()
-
-
+if __name__ == "__main__":
+  main()
 
