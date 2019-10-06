@@ -3,6 +3,8 @@
 import os, sys, re
 import glob, hashlib
 
+out = open("index.html", "w", encoding="utf8")
+
 def calc_sha1(path):
   s = hashlib.sha1()
   fd = open(path, "rb")
@@ -16,16 +18,16 @@ def calc_sha1(path):
 
 def print_dir(dir):
   files = glob.glob(dir)
-  print("<h4>%s</h4>" % os.path.dirname(dir))
-  print("<table>")
+  print("<h4>%s</h4>" % os.path.dirname(dir), file=out)
+  print("<table>", file=out)
   for file in sorted(files):
     href = file.replace(os.sep,"/")
     name = os.path.basename(file)
     size = os.path.getsize(file)
     sha1 = calc_sha1(file)
 
-    print(" <tr><td><a href=%s>%s</a><td align=right>%d<td>%s" % (href, name, size, sha1))
-  print("</table>")
+    print(" <tr><td><a href=%s>%s</a><td align=right>%d<td>%s" % (href, name, size, sha1), file=out)
+  print("</table>", file=out)
 
 
 def main():
@@ -48,10 +50,10 @@ td, th {
 
 <h2>らじるこプラグイン ファイル置き場</h2><br><br>
 
-""")
+""", file=out)
 
   print_dir("release/v7/*.zip")
-  print("\n<br><br>\n")
+  print("\n<br><br>\n", file=out)
   print_dir("release/src/*")
 
 
