@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <opml version="1.1">
-  <head cachetime="7200" title="FM++ (191127)">
+  <head cachetime="7200" title="FM++ (191224)">
     <expansionState/>
   </head>
   <body>
@@ -18,6 +18,7 @@
     <outline URL="fmpp://lcvfm/#simulradio=1;icon=http%3A%2F%2Fmysqueezebox.com%2Fpublic%2Fimageproxy%3Fu%3Dhttps%253A%252F%252Ffmplapla.com%252Flcvfm%252Fimg%252Ficon.png;title=LCV-FM769;homepage=http%3A%2F%2Fwww.lcv.jp%2F" icon="http://mysqueezebox.com/public/imageproxy?u=https%3A%2F%2Ffmplapla.com%2Flcvfm%2Fimg%2Ficon.png" text="LCV-FM769" type="audio"/>
     <outline URL="fmpp://iidafm/#simulradio=1;icon=http%3A%2F%2Fmysqueezebox.com%2Fpublic%2Fimageproxy%3Fu%3Dhttps%253A%252F%252Ffmplapla.com%252Fiidafm%252Fimg%252Ficon.png;title=%E3%81%84%E3%81%84%E3%81%A0FM;homepage=http%3A%2F%2Fwww.iida.fm%2F" icon="http://mysqueezebox.com/public/imageproxy?u=https%3A%2F%2Ffmplapla.com%2Fiidafm%2Fimg%2Ficon.png" text="いいだFM" type="audio"/>
     <outline URL="fmpp://miyaradi/#simulradio=1;icon=http%3A%2F%2Fmysqueezebox.com%2Fpublic%2Fimageproxy%3Fu%3Dhttps%253A%252F%252Ffmplapla.com%252Fmiyaradi%252Fimg%252Ficon.png;title=%E3%83%9F%E3%83%A4%E3%83%A9%E3%82%B8;homepage=https%3A%2F%2Fwww.miyaradi.com%2F" icon="http://mysqueezebox.com/public/imageproxy?u=https%3A%2F%2Ffmplapla.com%2Fmiyaradi%2Fimg%2Ficon.png" text="ミヤラジ" type="audio"/>
+    <outline URL="fmpp://fmyugao/#simulradio=1;icon=http%3A%2F%2Fmysqueezebox.com%2Fpublic%2Fimageproxy%3Fu%3Dhttps%253A%252F%252Ffmplapla.com%252Ffmyugao%252Fimg%252Ficon.png;title=FM%E3%82%86%E3%81%86%E3%81%8C%E3%81%8A;homepage=http%3A%2F%2Fcablevision.jp%2F" icon="http://mysqueezebox.com/public/imageproxy?u=https%3A%2F%2Ffmplapla.com%2Ffmyugao%2Fimg%2Ficon.png" text="FMゆうがお" type="audio"/>
     <outline URL="fmpp://fmkulala857/#simulradio=1;icon=http%3A%2F%2Fmysqueezebox.com%2Fpublic%2Fimageproxy%3Fu%3Dhttps%253A%252F%252Ffmplapla.com%252Ffmkulala857%252Fimg%252Ficon.png;title=FM%E3%81%8F%E3%82%89%E3%82%89857;homepage=http%3A%2F%2Fwww.cc9.jp%2F" icon="http://mysqueezebox.com/public/imageproxy?u=https%3A%2F%2Ffmplapla.com%2Ffmkulala857%2Fimg%2Ficon.png" text="FMくらら857" type="audio"/>
     <outline URL="fmpp://oradi/#simulradio=1;icon=http%3A%2F%2Fmysqueezebox.com%2Fpublic%2Fimageproxy%3Fu%3Dhttps%253A%252F%252Ffmplapla.com%252Foradi%252Fimg%252Ficon.png;title=%E3%81%8A%E3%83%BC%E3%83%A9%E3%82%B8;homepage=http%3A%2F%2Fwww.tvoyama.co.jp%2F" icon="http://mysqueezebox.com/public/imageproxy?u=https%3A%2F%2Ffmplapla.com%2Foradi%2Fimg%2Ficon.png" text="おーラジ" type="audio"/>
     <outline URL="fmpp://fmkiryu/#simulradio=1;icon=http%3A%2F%2Fmysqueezebox.com%2Fpublic%2Fimageproxy%3Fu%3Dhttps%253A%252F%252Ffmplapla.com%252Ffmkiryu%252Fimg%252Ficon.png;title=FM%E6%A1%90%E7%94%9F;homepage=http%3A%2F%2Fwww.fmkiryu.jp%2F" icon="http://mysqueezebox.com/public/imageproxy?u=https%3A%2F%2Ffmplapla.com%2Ffmkiryu%2Fimg%2Ficon.png" text="FM桐生" type="audio"/>

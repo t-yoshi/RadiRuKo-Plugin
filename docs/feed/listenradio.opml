@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <opml version="1.1">
-  <head cachetime="7200" title="Listen Radio (191127)">
+  <head cachetime="7200" title="Listen Radio (191224)">
     <expansionState/>
   </head>
   <body>
@@ -53,7 +53,7 @@
     <outline URL="ffmpegaac:http://mtist.as.smartstream.ne.jp/30039/livestream/playlist.m3u8#simulradio=1;icon=http%3A%2F%2Flistenradio.jp%2Fimg%2Frslogo%2F30039r.png;title=%E8%AA%BF%E5%B8%83FM" icon="http://listenradio.jp/img/rslogo/30039r.png" text="調布FM" type="audio"/>
     <outline URL="ffmpegaac:http://mtist.as.smartstream.ne.jp/30059/livestream/playlist.m3u8#simulradio=1;icon=http%3A%2F%2Flistenradio.jp%2Fimg%2Frslogo%2F30059r.png;title=%E3%83%A9%E3%82%B8%E3%82%AA%E3%83%95%E3%83%81%E3%83%A5%E3%83%BC%E3%82%BA" icon="http://listenradio.jp/img/rslogo/30059r.png" text="ラジオフチューズ" type="audio"/>
     <outline URL="ffmpegaac:http://mtist.as.smartstream.ne.jp/30033/livestream/playlist.m3u8#simulradio=1;icon=http%3A%2F%2Flistenradio.jp%2Fimg%2Frslogo%2F30033r.png;title=FM%E3%81%9F%E3%81%A1%E3%81%8B%E3%82%8F" icon="http://listenradio.jp/img/rslogo/30033r.png" text="FMたちかわ" type="audio"/>
-    <outline URL="ffmpegaac:http://mtist.as.smartstream.ne.jp/30081/livestream/playlist.m3u8#simulradio=1;icon=http%3A%2F%2Flistenradio.jp%2Fimg%2Frslogo%2F30081r.png;title=Tokyo%20Star%20Radio" icon="http://listenradio.jp/img/rslogo/30081r.png" text="Tokyo Star Radio" type="audio"/>
+    <outline URL="ffmpegaac:http://mtist.as.smartstream.ne.jp/30081/livestream/playlist.m3u8#simulradio=1;icon=http%3A%2F%2Flistenradio.jp%2Fimg%2Frslogo%2F30081r.png;title=Tokyo%20Star%20Radio%28%E5%85%AB%E7%8E%8B%E5%AD%90FM%29" icon="http://listenradio.jp/img/rslogo/30081r.png" text="Tokyo Star Radio(八王子FM)" type="audio"/>
     <outline URL="ffmpegaac:http://mtist.as.smartstream.ne.jp/30046/livestream/playlist.m3u8#simulradio=1;icon=http%3A%2F%2Flistenradio.jp%2Fimg%2Frslogo%2F30046r.png;title=%E3%81%8B%E3%82%8F%E3%81%95%E3%81%8D%EF%BC%A6%EF%BC%AD" icon="http://listenradio.jp/img/rslogo/30046r.png" text="かわさきＦＭ" type="audio"/>
     <outline URL="ffmpegaac:http://mtist.as.smartstream.ne.jp/30065/livestream/playlist.m3u8#simulradio=1;icon=http%3A%2F%2Flistenradio.jp%2Fimg%2Frslogo%2F30065r.png;title=%E3%83%9E%E3%83%AA%E3%83%B3FM" icon="http://listenradio.jp/img/rslogo/30065r.png" text="マリンFM" type="audio"/>
     <outline URL="ffmpegaac:http://mtist.as.smartstream.ne.jp/30064/livestream/playlist.m3u8#simulradio=1;icon=http%3A%2F%2Flistenradio.jp%2Fimg%2Frslogo%2F30064r.png;title=%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0%E6%88%B8%E5%A1%9A" icon="http://listenradio.jp/img/rslogo/30064r.png" text="エフエム戸塚" type="audio"/>
