@@ -5,7 +5,7 @@
  </details>
  <plugins>
    
-  <plugin name="RadiRuKo" version="7.0.1" target="win|unix|mac" minTarget="7.6" maxTarget="7.*">
+  <plugin name="RadiRuKo" version="7.0.1" target="win|unix|mac" minTarget="7.6" maxTarget="8.*">
    <title lang="EN">RadiRuKo-Basic</title>
    <desc lang="EN">Radiru and radiko plugin</desc>
    <desc lang="JA">らじるラジコ基本プラグイン</desc>
@@ -16,7 +16,7 @@
    <sha>644e1756f6e8459af24aec4418e0d06b39659a6e</sha>
   </plugin>
     
-  <plugin name="RadiRuKoPr" version="7.0.0-1570016399" target="win|unix|mac" minTarget="7.6" maxTarget="7.*">
+  <plugin name="RadiRuKoPr" version="7.0.0-1570016399" target="win|unix|mac" minTarget="7.6" maxTarget="8.*">
    <title lang="EN">RadiRuKo-Premium</title>
    <desc lang="EN">radiko premium plugin</desc>
    <desc lang="JA">ラジコプレミアムプラグイン</desc>
@@ -27,7 +27,7 @@
    <sha>ccec5a2085c779760147fed4fc8dee2752fa59f6</sha>
   </plugin>
     
-  <plugin name="RadiRuKoTf" version="7.0.1" target="win|unix|mac" minTarget="7.6" maxTarget="7.*">
+  <plugin name="RadiRuKoTf" version="7.0.1" target="win|unix|mac" minTarget="7.6" maxTarget="8.*">
    <title lang="EN">RadiRuKo-TimeFree</title>
    <desc lang="EN">radiko TimeFree Plugin</desc>
    <desc lang="JA">ラジコタイムフリープラグイン</desc>
@@ -38,7 +38,7 @@
    <sha>570f7bd4c8c574bbf041d5e9751124678ad792f7</sha>
   </plugin>
     
-  <plugin name="RadiRuKoFmpp" version="7.0.1" target="win|unix|mac" minTarget="7.6" maxTarget="7.*">
+  <plugin name="RadiRuKoFmpp" version="7.0.1" target="win|unix|mac" minTarget="7.6" maxTarget="8.*">
    <title lang="EN">RadiRuKo-FM++</title>
    <desc lang="EN">FM++ Plugin</desc>
    <desc lang="JA">FM++プラグイン</desc>
@@ -49,7 +49,7 @@
    <sha>9dbfdfc1bad73ec5596b1859e677b1ded8d4034e</sha>
   </plugin>
     
-  <plugin name="RadiRuKoRo" version="7.0.1" target="win|unix|mac" minTarget="7.6" maxTarget="7.*">
+  <plugin name="RadiRuKoRo" version="7.0.1" target="win|unix|mac" minTarget="7.6" maxTarget="8.*">
    <title lang="EN">RadiRuKo-RadiruOndemand</title>
    <desc lang="EN">Radiru Ondemand</desc>
    <desc lang="JA">らじる聞き逃しプラグイン</desc>
