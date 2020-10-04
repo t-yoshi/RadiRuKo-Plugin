@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <opml version="1.1">
-  <head title="サイマルラジオ (2020/08)" cachetime="7200">
+  <head title="サイマルラジオ (2020/10)" cachetime="7200">
     <expansionState/>
   </head>
   <body>
@@ -172,6 +172,7 @@
     <outline URL="ffmpegaac:http://musicbird-hls.leanstream.co/musicbird/JCB097.stream/playlist.m3u8#simulradio=1;icon=https%3A%2F%2Fwww.jcbasimul.com%2Fwp2018%2Fwp-content%2Fuploads%2F2018%2F03%2Farea07_fmgojo.jpg;title=FM%E4%BA%94%E6%A2%9D;homepage=http%3A%2F%2Fwww.shousuien.or.jp%2Ffm_gojo%2F" text="FM五條　[64k 奈良県/近畿]" icon="https://www.jcbasimul.com/wp2018/wp-content/uploads/2018/03/area07_fmgojo.jpg" type="audio" bitrate="64"/>
     <outline URL="ffmpegaac:http://musicbird-hls.leanstream.co/musicbird/JCB075.stream/playlist.m3u8#simulradio=1;icon=https%3A%2F%2Fwww.jcbasimul.com%2Fwp2018%2Fwp-content%2Fuploads%2F2018%2F03%2Farea07_bananafm.jpg;title=%E3%83%90%E3%83%8A%E3%83%8A%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0;homepage=http%3A%2F%2F877.fm%2F" text="バナナエフエム　[64k 和歌山県/近畿]" icon="https://www.jcbasimul.com/wp2018/wp-content/uploads/2018/03/area07_bananafm.jpg" type="audio" bitrate="64"/>
     <outline URL="ffmpegaac:http://musicbird-hls.leanstream.co/musicbird/JCB114.stream/playlist.m3u8#simulradio=1;icon=https%3A%2F%2Fwww.jcbasimul.com%2Fwp2018%2Fwp-content%2Fuploads%2F2019%2F05%2Fdbf59e14e5023294b815816217c476e9.jpg;title=FM%20TANABE;homepage=https%3A%2F%2Fwww.fm885.jp%2Findex.php" text="FM TANABE　[64k 和歌山県/近畿]" icon="https://www.jcbasimul.com/wp2018/wp-content/uploads/2019/05/dbf59e14e5023294b815816217c476e9.jpg" type="audio" bitrate="64"/>
+    <outline URL="ffmpegaac:http://musicbird-hls.leanstream.co/musicbird/JCB121.stream/playlist.m3u8#simulradio=1;icon=https%3A%2F%2Fwww.jcbasimul.com%2Fwp2018%2Fwp-content%2Fuploads%2F2020%2F09%2F65188ce35d4a96beef6eaa7d4d91fe54.png;title=FM%E3%83%93%E3%83%BC%E3%83%81%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3;homepage=https%3A%2F%2Fwww.fm764.com%2F" text="FMビーチステーション　[64k 和歌山県/近畿]" icon="https://www.jcbasimul.com/wp2018/wp-content/uploads/2020/09/65188ce35d4a96beef6eaa7d4d91fe54.png" type="audio" bitrate="64"/>
     <outline URL="http://www.darazfm.com/streaming.asx#simulradio=1;icon=http%3A%2F%2Fwww.simulradio.jp%2Fdata%2F51.jpg;title=DARAZ%20FM;homepage=http%3A%2F%2Fwww.darazfm.com%2F" text="DARAZ FM　[64k 米子市/中国]" icon="http://www.simulradio.jp/data/51.jpg" type="audio" bitrate="64" textkey="8"/>
     <outline URL="http://www.simulradio.info/asx/fm815.asx#simulradio=1;icon=http%3A%2F%2Fwww.simulradio.jp%2Fdata%2F29.jpg;title=FM%E9%AB%98%E6%9D%BE;homepage=http%3A%2F%2Fwww.fm815.com%2F" text="FM高松　[64k 高松市/中国]" icon="http://www.simulradio.jp/data/29.jpg" type="audio" bitrate="64"/>
     <outline URL="http://www.simulradio.info/asx/b-fm791.asx#simulradio=1;icon=http%3A%2F%2Fwww.simulradio.jp%2Fdata%2F43.jpg;title=FM%E3%81%B3%E3%81%96%E3%82%93;homepage=http%3A%2F%2Fwww.bfm.jp%2F" text="FMびざん　[64k 徳島市/中国]" icon="http://www.simulradio.jp/data/43.jpg" type="audio" bitrate="64"/>
