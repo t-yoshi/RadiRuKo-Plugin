@@ -54,7 +54,7 @@ td, th {
 
   print_dir("release/v7/*.zip")
   print("\n<br><br>\n", file=out)
-  print_dir("release/src/*")
+  #print_dir("release/src/*")
 
 
 if __name__ == "__main__":
