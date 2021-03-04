@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <opml version="1.1">
-  <head title="Listen Radio (2021/02)" cachetime="7200">
+  <head title="Listen Radio (2021/03)" cachetime="7200">
     <expansionState/>
   </head>
   <body>
@@ -64,7 +64,6 @@
     <outline URL="ffmpegaac:http://mtist.as.smartstream.ne.jp/30001/livestream/playlist.m3u8#simulradio=1;icon=http%3A%2F%2Flistenradio.jp%2Fimg%2Frslogo%2F30001r.png;title=FM%20N1;--" text="FM N1" icon="http://listenradio.jp/img/rslogo/30001r.png" type="audio"/>
     <outline URL="ffmpegaac:http://mtist.as.smartstream.ne.jp/30006/livestream/playlist.m3u8#simulradio=1;icon=http%3A%2F%2Flistenradio.jp%2Fimg%2Frslogo%2F30006r.png;title=%E3%83%A9%E3%82%B8%E3%82%AA%E3%83%BB%E3%83%9F%E3%83%A5%E3%83%BC;--" text="ラジオ・ミュー" icon="http://listenradio.jp/img/rslogo/30006r.png" type="audio"/>
     <outline URL="ffmpegaac:http://mtist.as.smartstream.ne.jp/30012/livestream/playlist.m3u8#simulradio=1;icon=http%3A%2F%2Flistenradio.jp%2Fimg%2Frslogo%2F30012r.png;title=%E6%95%A6%E8%B3%80FM;--" text="敦賀FM" icon="http://listenradio.jp/img/rslogo/30012r.png" type="audio"/>
-    <outline URL="ffmpegaac:http://mtist.as.smartstream.ne.jp/30086/livestream/playlist.m3u8#simulradio=1;icon=http%3A%2F%2Flistenradio.jp%2Fimg%2Frslogo%2F30086r.png;title=%E3%81%82%E3%81%A5%E3%81%BF%E9%87%8E%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0;--" text="あづみ野エフエム" icon="http://listenradio.jp/img/rslogo/30086r.png" type="audio"/>
     <outline URL="ffmpegaac:http://mtist.as.smartstream.ne.jp/30062/livestream/playlist.m3u8#simulradio=1;icon=http%3A%2F%2Flistenradio.jp%2Fimg%2Frslogo%2F30062r.png;title=Ciao%21;--" text="Ciao!" icon="http://listenradio.jp/img/rslogo/30062r.png" type="audio"/>
     <outline URL="ffmpegaac:http://mtist.as.smartstream.ne.jp/30004/livestream/playlist.m3u8#simulradio=1;icon=http%3A%2F%2Flistenradio.jp%2Fimg%2Frslogo%2F30004r.png;title=MID%20FM;--" text="MID FM" icon="http://listenradio.jp/img/rslogo/30004r.png" type="audio"/>
     <outline URL="ffmpegaac:http://mtist.as.smartstream.ne.jp/30040/livestream/playlist.m3u8#simulradio=1;icon=http%3A%2F%2Flistenradio.jp%2Fimg%2Frslogo%2F30040r.png;title=FM%E3%81%8A%E3%81%8B%E3%81%96%E3%81%8D;--" text="FMおかざき" icon="http://listenradio.jp/img/rslogo/30040r.png" type="audio"/>
