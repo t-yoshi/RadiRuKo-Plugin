@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <opml version="1.1">
-  <head title="サイマルラジオ (2021/04)" cachetime="7200">
+  <head title="サイマルラジオ (2021/05)" cachetime="7200">
     <expansionState/>
   </head>
   <body>
@@ -63,7 +63,7 @@
     <outline URL="ffmpegaac:http://musicbird-hls.leanstream.co/musicbird/JCB055.stream/playlist.m3u8#simulradio=1;icon=https%3A%2F%2Fwww.jcbasimul.com%2Fwp2018%2Fwp-content%2Fuploads%2F2018%2F03%2Farea04_lcvfm.jpg;title=LCV%20FM;homepage=http%3A%2F%2Flcvfm769.jp%2F;--" text="LCV FM　[64k 長野県/信越]" icon="https://www.jcbasimul.com/wp2018/wp-content/uploads/2018/03/area04_lcvfm.jpg" type="audio" bitrate="64"/>
     <outline URL="ffmpegaac:http://musicbird-hls.leanstream.co/musicbird/JCB108.stream/playlist.m3u8#simulradio=1;icon=https%3A%2F%2Fwww.jcbasimul.com%2Fwp2018%2Fwp-content%2Fuploads%2F2015%2F06%2Fbad7c49dca10f7c47e7f6e52cd38daca.jpg;title=FM%E8%BB%BD%E4%BA%95%E6%B2%A2;homepage=http%3A%2F%2Fwww.fm-karuizawa.co.jp%2F;--" text="FM軽井沢　[64k 長野県/信越]" icon="https://www.jcbasimul.com/wp2018/wp-content/uploads/2015/06/bad7c49dca10f7c47e7f6e52cd38daca.jpg" type="audio" bitrate="64"/>
     <outline URL="ffmpegaac:http://musicbird-hls.leanstream.co/musicbird/JCB127.stream/playlist.m3u8#simulradio=1;icon=https%3A%2F%2Fwww.jcbasimul.com%2Fwp2018%2Fwp-content%2Fuploads%2F2015%2F06%2Ff4fcdb803d0596c21862fca87ffb8f7c.jpg;title=%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0%E3%81%82%E3%81%A5%E3%81%BF%E3%81%AE;homepage=http%3A%2F%2Fwww.azuminofm.co.jp%2F;--" text="エフエムあづみの　[64k 長野県/信越]" icon="https://www.jcbasimul.com/wp2018/wp-content/uploads/2015/06/f4fcdb803d0596c21862fca87ffb8f7c.jpg" type="audio" bitrate="64"/>
-    <outline URL="http://www.simulradio.info/asx/fmpalulun.asx#simulradio=1;icon=http%3A%2F%2Fwww.simulradio.jp%2Fdata%2F11.jpg;title=FM%E3%81%B1%E3%82%8B%E3%82%8B%E3%82%93;homepage=http%3A%2F%2Fwww.fmpalulun.co.jp%2F;--" text="FMぱるるん　[水戸市/関東]" icon="http://www.simulradio.jp/data/11.jpg" type="audio" textkey="4"/>
+    <outline URL="http://www.simulradio.info/asx/fmpalulun.asx#simulradio=1;icon=http%3A%2F%2Fwww.simulradio.jp%2Fdata%2F11.jpg%3F2021;title=FM%E3%81%B1%E3%82%8B%E3%82%8B%E3%82%93;homepage=http%3A%2F%2Fwww.fmpalulun.co.jp%2F;--" text="FMぱるるん　[水戸市/関東]" icon="http://www.simulradio.jp/data/11.jpg?2021" type="audio" textkey="4"/>
     <outline URL="ffmpegpcm:rtsp://flower-tv.net/simul#simulradio=1;icon=http%3A%2F%2Fwww.simulradio.jp%2Fdata%2F12.jpg;title=%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E3%83%A9%E3%82%B8%E3%82%AA;homepage=http%3A%2F%2Fwww.fm767.com%2F;--" text="フラワーラジオ　[64k 鴻巣市/関東]" icon="http://www.simulradio.jp/data/12.jpg" type="audio" bitrate="64"/>
     <outline URL="mms://hdv.nkansai.tv/smile#simulradio=1;icon=http%3A%2F%2Fwww.simulradio.jp%2Fdata%2F154.jpg;title=CLOVER%20MEDIA;homepage=https%3A%2F%2Fclovermedia.jp;--" text="CLOVER MEDIA　[64k 朝霞市/関東]" icon="http://www.simulradio.jp/data/154.jpg" type="audio" bitrate="64"/>
     <outline URL="https://www.beachfm.co.jp/radio/#simulradio=1;icon=http%3A%2F%2Fwww.simulradio.jp%2Fdata%2F14.jpg;title=%E6%B9%98%E5%8D%97%E3%83%93%E3%83%BC%E3%83%81FM;homepage=http%3A%2F%2Fwww.beachfm.co.jp%2F;--" text="湘南ビーチFM　[逗子市・葉山町/関東]" icon="http://www.simulradio.jp/data/14.jpg" type="audio"/>
