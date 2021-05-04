@@ -25,14 +25,14 @@
    <sha>079618ece4e37812231171d2aba503bdf4f89e12</sha>
   </plugin>
     
-  <plugin name="RadiRuKoTf" version="8.0.1" target="win|unix|mac" minTarget="7.7" maxTarget="8.*">
+  <plugin name="RadiRuKoTf" version="8.0.2" target="win|unix|mac" minTarget="7.7" maxTarget="8.*">
    <title lang="EN">RadiRuKo-TimeFree</title>
    <desc lang="EN">Radiko TimeFree Plugin</desc>
    <desc lang="JA">ラジコタイムフリープラグイン</desc>
    <creator>t-yoshi</creator>
-   <url>http://t-yoshi.github.io/RadiRuKo-Plugin/release/v8/RadiRuKoTf-8.0.1.zip</url>
+   <url>http://t-yoshi.github.io/RadiRuKo-Plugin/release/v8/RadiRuKoTf-8.0.2.zip</url>
    <link>https://github.com/t-yoshi/RadiRuKo-Plugin</link>
-   <sha>aad045bde762c99c3226f46a0d3a12c98c22a90d</sha>
+   <sha>fef4d731978b8a3e27a77a36cea77a9c37d00340</sha>
   </plugin>
     
   <plugin name="RadiRuKoFmpp" version="8.0.1" target="win|unix|mac" minTarget="7.7" maxTarget="8.*">
