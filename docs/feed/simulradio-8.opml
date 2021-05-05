@@ -5,7 +5,7 @@
   </head>
   <body>
     <outline URL="http://t-yoshi.github.io/RadiRuKo-Plugin/feed/jcba-8.opml" title="JCBA" icon="html/images/radio.png"/>
-    <outline URL="http://t-yoshi.github.io/RadiRuKo-Plugin/feed/csar-8.opml" title="CSRA" icon="html/images/radio.png"/>
+    <outline URL="http://t-yoshi.github.io/RadiRuKo-Plugin/feed/csra-8.opml" title="CSRA" icon="html/images/radio.png"/>
     <outline URL="http://t-yoshi.github.io/RadiRuKo-Plugin/feed/listenradio-8.opml" text="Listen Radio" icon="html/images/radio.png"/>
     <outline URL="http://t-yoshi.github.io/RadiRuKo-Plugin/feed/fmpp-8.opml" text="FM++" icon="html/images/radio.png"/>
   </body>
