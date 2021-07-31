@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <opml version="1.0">
-  <head title="CSRA (2021/07)" cachetime="7200">
+  <head title="CSRA (2021/08)" cachetime="7200">
     <expansionState/>
   </head>
   <body>
@@ -86,7 +86,6 @@
     <outline URL="https://www.simulradio.info/asx/nobeoka.asx#simulradio=1;icon=http%3A%2F%2Fwww.simulradio.jp%2Fdata%2F124.jpg;title=FM%E3%81%AE%E3%81%B9%E3%81%8A%E3%81%8B;homepage=http%3A%2F%2Ffmnobeoka.jp%2F;--" text="FMのべおか　[延岡市/九州]" icon="http://www.simulradio.jp/data/124.jpg" type="audio"/>
     <outline URL="https://www.simulradio.info/asx/ginga.asx#simulradio=1;icon=http%3A%2F%2Fwww.simulradio.jp%2Fdata%2F143.jpg;title=FM%E3%81%8E%E3%82%93%E3%81%8C;homepage=http%3A%2F%2Ffm786.jp%2F;--" text="FMぎんが　[鹿児島市/九州]" icon="http://www.simulradio.jp/data/143.jpg" type="audio"/>
     <outline URL="https://www.simulradio.info/asx/fm-nirai.asx#simulradio=1;icon=http%3A%2F%2Fwww.simulradio.jp%2Fdata%2F28.jpg;title=%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0%20%E3%83%8B%E3%83%A9%E3%82%A4;homepage=http%3A%2F%2Fwww.fm-nirai.jp%2F;--" text="エフエム ニライ　[64k 北谷町/沖縄]" icon="http://www.simulradio.jp/data/28.jpg" type="audio" textkey="0"/>
-    <outline URL="mms://hdv.nkansai.tv/fm-uruma#simulradio=1;icon=http%3A%2F%2Fwww.simulradio.jp%2Fdata%2F48.jpg;title=FM%E3%81%86%E3%82%8B%E3%81%BE;homepage=http%3A%2F%2Fwww.fm-uruma.com%2F;--" text="FMうるま　[64k うるま市/沖縄]" icon="http://www.simulradio.jp/data/48.jpg" type="audio"/>
     <outline URL="https://www.simulradio.info/asx/fm21.asx#simulradio=1;icon=http%3A%2F%2Fwww.simulradio.jp%2Fdata%2F49.jpg;title=FM21;homepage=http%3A%2F%2Fwww.fm21.net%2F;--" text="FM21　[64k 浦添市/沖縄]" icon="http://www.simulradio.jp/data/49.jpg" type="audio"/>
     <outline URL="https://www.simulradio.info/asx/lequio.asx#simulradio=1;icon=http%3A%2F%2Fwww.simulradio.jp%2Fdata%2F50.jpg;title=FM%E3%83%AC%E3%82%AD%E3%82%AA;homepage=http%3A%2F%2Fwww.fmlequio.com%2F;--" text="FMレキオ　[64k 那覇市/沖縄]" icon="http://www.simulradio.jp/data/50.jpg" type="audio"/>
     <outline URL="mms://hdv2.nkansai.tv/motob#simulradio=1;icon=http%3A%2F%2Fwww.simulradio.jp%2Fdata%2F113.jpg;title=FM%E3%82%82%E3%81%A8%E3%81%B6;homepage=http%3A%2F%2Fwww.motob.net%2F;--" text="FMもとぶ　[本部町/沖縄]" icon="http://www.simulradio.jp/data/113.jpg" type="audio"/>
