@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <opml version="1.0">
-  <head title="CSRA (2021/10)" cachetime="7200">
+  <head title="CSRA (2021/11)" cachetime="7200">
     <expansionState/>
   </head>
   <body>
@@ -55,7 +55,6 @@
     <outline URL="https://www.simulradio.info/asx/mid-fm761.asx#simulradio=1;icon=http%3A%2F%2Fwww.simulradio.jp%2Fdata%2F19.jpg;title=MID-FM;homepage=http%3A%2F%2Fmidfm761.com%2F;--" text="MID-FM　[64k 名古屋市中区/東海]" icon="http://www.simulradio.jp/data/19.jpg" type="audio" textkey="5"/>
     <outline URL="https://www.simulradio.info/asx/FmOkazaki.asx#simulradio=1;icon=http%3A%2F%2Fwww.simulradio.jp%2Fdata%2F174.jpg;title=%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0EGAO;homepage=http%3A%2F%2Ffm-egao.jp%2F;--" text="エフエムEGAO　[64k 岡崎市/東海]" icon="http://www.simulradio.jp/data/174.jpg" type="audio"/>
     <outline URL="https://www.simulradio.info/asx/toyota.asx#simulradio=1;icon=http%3A%2F%2Fwww.simulradio.jp%2Fdata%2F118.jpg;title=RADIO%20LOVEAT;homepage=http%3A%2F%2Fwww.loveat.co.jp%2F;--" text="RADIO LOVEAT　[豊田市/東海]" icon="http://www.simulradio.jp/data/118.jpg" type="audio"/>
-    <outline URL="https://www.simulradio.info/asx/izunokuni.asx#simulradio=1;icon=http%3A%2F%2Fwww.simulradio.jp%2Fdata%2F127.jpg;title=FM%E3%81%84%E3%81%9A%E3%81%AE%E3%81%8F%E3%81%AB;homepage=http%3A%2F%2Fwww.fmizunokuni.jp%2F;--" text="FMいずのくに　[伊豆の国市/東海]" icon="http://www.simulradio.jp/data/127.jpg" type="audio"/>
     <outline URL="https://www.simulradio.info/asx/radiomyu.asx#simulradio=1;icon=http%3A%2F%2Fwww.simulradio.jp%2Fdata%2F132.jpg;title=%E3%83%A9%E3%82%B8%E3%82%AA%E3%83%BB%E3%83%9F%E3%83%A5%E3%83%BC;homepage=http%3A%2F%2Fwww.fm761.co.jp%2F;--" text="ラジオ・ミュー　[黒部市/北陸]" icon="http://www.simulradio.jp/data/132.jpg" type="audio" textkey="6"/>
     <outline URL="mms://211.1.40.29/tanba#simulradio=1;icon=http%3A%2F%2Fwww.simulradio.jp%2Fdata%2F21.jpg;title=FM%E4%B8%B9%E6%B3%A2;homepage=http%3A%2F%2Ffukuchiyama.fm-tanba.jp%2F;--" text="FM丹波　[64k 福知山市/近畿]" icon="http://www.simulradio.jp/data/21.jpg" type="audio" textkey="7"/>
     <outline URL="mms://hdv2.nkansai.tv/fmyy#simulradio=1;icon=http%3A%2F%2Fwww.simulradio.jp%2Fdata%2F23.jpg;title=%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0%E3%82%8F%E3%81%84%E3%82%8F%E3%81%84;homepage=http%3A%2F%2Ftcc117.jp%2Ffmyy%2F;--" text="エフエムわいわい　[64k 神戸市/近畿]" icon="http://www.simulradio.jp/data/23.jpg" type="audio"/>
