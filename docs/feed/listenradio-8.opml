@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <opml version="1.0">
-  <head title="Listen Radio (2021/12)" cachetime="7200">
+  <head title="Listen Radio (2022/01)" cachetime="7200">
     <expansionState/>
   </head>
   <body>
@@ -80,6 +80,7 @@
     <outline URL="ffmpegaac:http://mtist.as.smartstream.ne.jp/30024/livestream/playlist.m3u8#simulradio=1;icon=http%3A%2F%2Flistenradio.jp%2Fimg%2Frslogo%2F30024r.png;title=FM815%EF%BC%88%E9%AB%98%E6%9D%BE%EF%BC%89;--" text="FM815（高松）" icon="http://listenradio.jp/img/rslogo/30024r.png" type="audio"/>
     <outline URL="ffmpegaac:http://mtist.as.smartstream.ne.jp/30070/livestream/playlist.m3u8#simulradio=1;icon=http%3A%2F%2Flistenradio.jp%2Fimg%2Frslogo%2F30070r.png;title=FM%20SUN;--" text="FM SUN" icon="http://listenradio.jp/img/rslogo/30070r.png" type="audio"/>
     <outline URL="ffmpegaac:http://mtist.as.smartstream.ne.jp/30052/livestream/playlist.m3u8#simulradio=1;icon=http%3A%2F%2Flistenradio.jp%2Fimg%2Frslogo%2F30052r.png;title=AIR%20STATION%20HIBIKI;--" text="AIR STATION HIBIKI" icon="http://listenradio.jp/img/rslogo/30052r.png" type="audio"/>
+    <outline URL="ffmpegaac:http://mtist.as.smartstream.ne.jp/30077/livestream/playlist.m3u8#simulradio=1;icon=http%3A%2F%2Flistenradio.jp%2Fimg%2Frslogo%2F30077r.png;title=COMI%C3%97TEN;--" text="COMI×TEN" icon="http://listenradio.jp/img/rslogo/30077r.png" type="audio"/>
     <outline URL="ffmpegaac:https://mtist.as.smartstream.ne.jp/30085/livestream/playlist.m3u8#simulradio=1;icon=http%3A%2F%2Flistenradio.jp%2Fimg%2Frslogo%2F30085r.png;title=CHOKU%E3%83%A9%E3%82%B8%EF%BC%81;--" text="CHOKUラジ！" icon="http://listenradio.jp/img/rslogo/30085r.png" type="audio"/>
     <outline URL="ffmpegaac:http://mtist.as.smartstream.ne.jp/30088/livestream/playlist.m3u8#simulradio=1;icon=http%3A%2F%2Flistenradio.jp%2Fimg%2Frslogo%2F30088r.png;title=FM%E3%81%AE%E3%81%B9%E3%81%8A%E3%81%8B;--" text="FMのべおか" icon="http://listenradio.jp/img/rslogo/30088r.png" type="audio"/>
     <outline URL="ffmpegaac:http://mtist.as.smartstream.ne.jp/30072/livestream/playlist.m3u8#simulradio=1;icon=http%3A%2F%2Flistenradio.jp%2Fimg%2Frslogo%2F30072r.png;title=%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0%E3%81%9F%E3%81%A4%E3%81%94%E3%81%86;--" text="エフエムたつごう" icon="http://listenradio.jp/img/rslogo/30072r.png" type="audio"/>
@@ -96,7 +97,6 @@
     <outline URL="ffmpegaac:http://mtist.as.smartstream.ne.jp/30083/livestream/playlist.m3u8#simulradio=1;icon=http%3A%2F%2Flistenradio.jp%2Fimg%2Frslogo%2F30083r.png;title=FM%E3%81%A8%E3%82%88%E3%81%BF;--" text="FMとよみ" icon="http://listenradio.jp/img/rslogo/30083r.png" type="audio"/>
     <outline URL="ffmpegaac:http://mtist.as.smartstream.ne.jp/30069/livestream/playlist.m3u8#simulradio=1;icon=http%3A%2F%2Flistenradio.jp%2Fimg%2Frslogo%2F30069r.png;title=FM%E3%81%84%E3%81%97%E3%81%8C%E3%81%8D%E3%82%B5%E3%83%B3%E3%82%B5%E3%83%B3%E3%83%A9%E3%82%B8%E3%82%AA;--" text="FMいしがきサンサンラジオ" icon="http://listenradio.jp/img/rslogo/30069r.png" type="audio"/>
     <outline URL="ffmpegaac:http://mtist.as.smartstream.ne.jp/30099/livestream/playlist.m3u8#simulradio=1;icon=http%3A%2F%2Flistenradio.jp%2Fimg%2Frslogo%2F30099r.png;title=%E8%A9%A6%E9%A8%93%E6%94%BE%E9%80%81A;--" text="試験放送A" icon="http://listenradio.jp/img/rslogo/30099r.png" type="audio"/>
-    <outline URL="ffmpegaac:http://mtist.as.smartstream.ne.jp/30100/livestream/playlist.m3u8#simulradio=1;icon=http%3A%2F%2Flistenradio.jp%2Fimg%2Frslogo%2F30100r.png;title=%E8%A9%A6%E9%A8%93%E6%94%BE%E9%80%81B;--" text="試験放送B" icon="http://listenradio.jp/img/rslogo/30100r.png" type="audio"/>
     <outline URL="ffmpegaac:http://mtist.as.smartstream.ne.jp/20005/livestream/playlist.m3u8#simulradio=1;icon=http%3A%2F%2Flistenradio.jp%2Fimg%2Frslogo%2F20005r.png;title=%E8%A9%A6%E9%A8%93%E6%94%BE%E9%80%81;--" text="試験放送" icon="http://listenradio.jp/img/rslogo/20005r.png" type="audio"/>
   </body>
 </opml>
