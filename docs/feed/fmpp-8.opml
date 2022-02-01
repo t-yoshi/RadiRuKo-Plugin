@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <opml version="1.0">
-  <head title="FM++ (2022/01)" cachetime="7200">
+  <head title="FM++ (2022/02)" cachetime="7200">
     <expansionState/>
   </head>
   <body>
@@ -41,6 +41,7 @@
     <outline URL="fmpp://fmyumewave/#simulradio=1;icon=http%3A%2F%2Fmysqueezebox.com%2Fpublic%2Fimageproxy%3Fu%3Dhttps%253A%252F%252Ffmplapla.com%252Ffmyumewave%252Fimg%252Ficon.png;title=%E3%82%86%E3%82%81%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%96;homepage=https%3A%2F%2Fwww.yumewave.net%2F;--" text="ゆめウェーブ" icon="http://mysqueezebox.com/public/imageproxy?u=https%3A%2F%2Ffmplapla.com%2Ffmyumewave%2Fimg%2Ficon.png" type="audio"/>
     <outline URL="fmpp://fmwassyoi/#simulradio=1;icon=http%3A%2F%2Fmysqueezebox.com%2Fpublic%2Fimageproxy%3Fu%3Dhttps%253A%252F%252Ffmplapla.com%252Ffmwassyoi%252Fimg%252Ficon.png;title=FM%E3%82%8F%E3%81%A3%E3%81%97%E3%82%87%E3%81%84;homepage=http%3A%2F%2Fwww.fm-wassyoi.jp%2F;--" text="FMわっしょい" icon="http://mysqueezebox.com/public/imageproxy?u=https%3A%2F%2Ffmplapla.com%2Ffmwassyoi%2Fimg%2Ficon.png" type="audio"/>
     <outline URL="fmpp://fmsunsunkirara/#simulradio=1;icon=http%3A%2F%2Fmysqueezebox.com%2Fpublic%2Fimageproxy%3Fu%3Dhttps%253A%252F%252Ffmplapla.com%252Ffmsunsunkirara%252Fimg%252Ficon.png;title=FM%E3%82%B9%E3%83%9E%E3%82%A4%E3%83%AB%E3%82%A6%E3%82%A7%EF%BD%9E%E3%83%96;homepage=http%3A%2F%2Fwww.sw897.jp%2F;--" text="FMスマイルウェ～ブ" icon="http://mysqueezebox.com/public/imageproxy?u=https%3A%2F%2Ffmplapla.com%2Ffmsunsunkirara%2Fimg%2Ficon.png" type="audio"/>
+    <outline URL="fmpp://fmkitaq/#simulradio=1;icon=http%3A%2F%2Fmysqueezebox.com%2Fpublic%2Fimageproxy%3Fu%3Dhttps%253A%252F%252Ffmplapla.com%252Ffmkitaq%252Fimg%252Ficon.png;title=FM%20KITAQ;homepage=https%3A%2F%2Fwww.fm-kitaq.com%2F;--" text="FM KITAQ" icon="http://mysqueezebox.com/public/imageproxy?u=https%3A%2F%2Ffmplapla.com%2Ffmkitaq%2Fimg%2Ficon.png" type="audio"/>
     <outline URL="fmpp://fmtanto/#simulradio=1;icon=http%3A%2F%2Fmysqueezebox.com%2Fpublic%2Fimageproxy%3Fu%3Dhttps%253A%252F%252Ffmplapla.com%252Ffmtanto%252Fimg%252Ficon.png;title=FM%E3%81%9F%E3%82%93%E3%81%A8;homepage=https%3A%2F%2Fwww.ariakeinfo.ne.jp%2F;--" text="FMたんと" icon="http://mysqueezebox.com/public/imageproxy?u=https%3A%2F%2Ffmplapla.com%2Ffmtanto%2Fimg%2Ficon.png" type="audio"/>
     <outline URL="fmpp://ebisufm/#simulradio=1;icon=http%3A%2F%2Fmysqueezebox.com%2Fpublic%2Fimageproxy%3Fu%3Dhttps%253A%252F%252Ffmplapla.com%252Febisufm%252Fimg%252Ficon.png;title=%E3%81%88%E3%81%B3%E3%81%99FM;homepage=http%3A%2F%2Febisufm.com%2F;--" text="えびすFM" icon="http://mysqueezebox.com/public/imageproxy?u=https%3A%2F%2Ffmplapla.com%2Febisufm%2Fimg%2Ficon.png" type="audio"/>
     <outline URL="fmpp://mitsubachiradio/#simulradio=1;icon=http%3A%2F%2Fmysqueezebox.com%2Fpublic%2Fimageproxy%3Fu%3Dhttps%253A%252F%252Ffmplapla.com%252Fmitsubachiradio%252Fimg%252Ficon.png;title=%E3%81%BF%E3%81%A4%E3%81%B0%E3%81%A1%E3%83%A9%E3%82%B8%E3%82%AA;homepage=https%3A%2F%2Fwww.acn-tv.co.jp%2F;--" text="みつばちラジオ" icon="http://mysqueezebox.com/public/imageproxy?u=https%3A%2F%2Ffmplapla.com%2Fmitsubachiradio%2Fimg%2Ficon.png" type="audio"/>
