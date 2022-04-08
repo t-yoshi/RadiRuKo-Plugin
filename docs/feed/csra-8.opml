@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <opml version="1.0">
-  <head title="CSRA (2022/03)" cachetime="7200">
+  <head title="CSRA (2022/04)" cachetime="7200">
     <expansionState/>
   </head>
   <body>
@@ -11,7 +11,6 @@
     <outline URL="https://www.simulradio.info/asx/fm837.asx#simulradio=1;icon=http%3A%2F%2Fwww.simulradio.jp%2Fdata%2F5.jpg;title=FM%E3%82%8A%E3%81%B9%E3%83%BC%E3%82%8B;homepage=http%3A%2F%2Fwww.fm837.com%2F;--" text="FMりべーる　[旭川市/北海道]" icon="http://www.simulradio.jp/data/5.jpg" type="audio"/>
     <outline URL="ffmpegpcm:mmst://wm2.hvc.co.jp/radioniseko#simulradio=1;icon=http%3A%2F%2Fwww.simulradio.jp%2Fdata%2F92.jpg;title=%E3%83%A9%E3%82%B8%E3%82%AA%E3%83%8B%E3%82%BB%E3%82%B3;homepage=http%3A%2F%2Fradioniseko.jp;--" text="ラジオニセコ　[24k ニセコ町/北海道]" icon="http://www.simulradio.jp/data/92.jpg" type="audio"/>
     <outline URL="mms://hdv2.nkansai.tv/radiokaros#simulradio=1;icon=http%3A%2F%2Fwww.simulradio.jp%2Fdata%2F112.jpg;title=%E3%83%A9%E3%82%B8%E3%82%AA%E3%82%AB%E3%83%AD%E3%82%B9%E3%82%B5%E3%83%83%E3%83%9D%E3%83%AD;homepage=http%3A%2F%2Fwww.radiokaros.com%2F;--" text="ラジオカロスサッポロ　[札幌市/北海道]" icon="http://www.simulradio.jp/data/112.jpg" type="audio"/>
-    <outline URL="https://www.simulradio.info/asx/fmapple.asx#simulradio=1;icon=http%3A%2F%2Fwww.simulradio.jp%2Fdata%2F123.jpg;title=FM%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB;homepage=http%3A%2F%2F765fm.com%2F;--" text="FMアップル　[札幌市豊平区/北海道]" icon="http://www.simulradio.jp/data/123.jpg" type="audio"/>
     <outline URL="https://www.simulradio.info/asx/eniwa.asx#simulradio=1;icon=http%3A%2F%2Fwww.simulradio.jp%2Fdata%2F129.jpg;title=e-niwaFM;homepage=http%3A%2F%2Fwww.e-niwa.tv%2F;--" text="e-niwaFM　[恵庭市/北海道]" icon="http://www.simulradio.jp/data/129.jpg" type="audio"/>
     <outline URL="mms://hdv5.nkansai.tv/otaru#simulradio=1;icon=http%3A%2F%2Fwww.simulradio.jp%2Fdata%2F135.jpg;title=FM%E3%81%8A%E3%81%9F%E3%82%8B;homepage=http%3A%2F%2Fwww.fmotaru.jp%2F;--" text="FMおたる　[小樽市/北海道]" icon="http://www.simulradio.jp/data/135.jpg" type="audio"/>
     <outline URL="https://www.simulradio.info/asx/fmmotcom.asx#simulradio=1;icon=http%3A%2F%2Fwww.simulradio.jp%2Fdata%2F8.jpg;title=%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0%20%E3%83%A2%E3%83%83%E3%83%88%E3%82%B3%E3%83%A0;homepage=http%3A%2F%2Fwww.fm-mot.com%2F;--" text="エフエム モットコム　[24k 本宮市/東北]" icon="http://www.simulradio.jp/data/8.jpg" type="audio" textkey="2"/>
@@ -78,7 +77,6 @@
     <outline URL="http://onair.fm-tsuyama.jp:1080/fmtsuyama_live.ogg#simulradio=1;icon=html%2Fimages%2Fradio.png;title=FM%E3%81%A4%E3%82%84%E3%81%BE;homepage=http%3A%2F%2Fwww.fm-tsuyama.jp%2F;--" text="FMつやま　[津山市/中国]" icon="html/images/radio.png" type="audio"/>
     <outline URL="http://www.npo-d.org/simul/AmamiFM.asx#simulradio=1;icon=http%3A%2F%2Fwww.simulradio.jp%2Fdata%2F65.jpg;title=%E3%81%82%E3%81%BE%E3%81%BFFM;homepage=http%3A%2F%2Fwww.npo-d.org;--" text="あまみFM　[64k 奄美市/九州]" icon="http://www.simulradio.jp/data/65.jpg" type="audio" textkey="9"/>
     <outline URL="http://www.shimabara.fm/st/fm-shimabara-live.asx#simulradio=1;icon=http%3A%2F%2Fwww.simulradio.jp%2Fdata%2F78.jpg;title=FM%E3%81%97%E3%81%BE%E3%81%B0%E3%82%89;homepage=http%3A%2F%2Fwww.shimabara.fm%2F;--" text="FMしまばら　[48k 島原市/九州]" icon="http://www.simulradio.jp/data/78.jpg" type="audio"/>
-    <outline URL="http://www.shimabara.fm/st/fm-kitaq-live.asx#simulradio=1;icon=http%3A%2F%2Fwww.simulradio.jp%2Fdata%2F86.jpg;title=FM%20KITAQ;homepage=http%3A%2F%2Fwww.fm-kitaq.com%2F;--" text="FM KITAQ　[64k 北九州市小倉北区/九州]" icon="http://www.simulradio.jp/data/86.jpg" type="audio"/>
     <outline URL="mms://hdv.nkansai.tv/starcorn#simulradio=1;icon=http%3A%2F%2Fwww.simulradio.jp%2Fdata%2F95.jpg;title=%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B3%E3%83%BC%E3%83%B3FM;homepage=http%3A%2F%2Fwww.starcornfm.com%2F;--" text="スターコーンFM　[64k 築上郡築上町/九州]" icon="http://www.simulradio.jp/data/95.jpg" type="audio"/>
     <outline URL="http://comiten.jp/live.asx#simulradio=1;icon=http%3A%2F%2Fwww.simulradio.jp%2Fdata%2F108.jpg;title=%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%A9%E3%82%B8%E3%82%AA%E5%A4%A9%E7%A5%9E;homepage=http%3A%2F%2Fcomiten.jp%2F;--" text="コミュニティラジオ天神　[40k 福岡市/九州]" icon="http://www.simulradio.jp/data/108.jpg" type="audio"/>
     <outline URL="https://www.simulradio.info/asx/hibiki.asx#simulradio=1;icon=http%3A%2F%2Fwww.simulradio.jp%2Fdata%2F116.jpg;title=AIR%20STATION%20HIBIKI;homepage=http%3A%2F%2Fwww.hibiki882.jp%2F;--" text="AIR STATION HIBIKI　[北九州市/九州]" icon="http://www.simulradio.jp/data/116.jpg" type="audio"/>
