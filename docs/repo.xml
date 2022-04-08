@@ -35,14 +35,14 @@
    <sha>94f4b1a2dc27ed3b6db497c841709af9e1828aef</sha>
   </plugin>
     
-  <plugin name="RadiRuKoFmpp" version="8.1.0" target="win|unix|mac" minTarget="7.7" maxTarget="8.*">
-   <title lang="EN">RadiRuKo-FM++</title>
-   <desc lang="EN">FM++ Plugin</desc>
-   <desc lang="JA">FM++プラグイン</desc>
+  <plugin name="RadiRuKoWs" version="8.1.1" target="win|unix|mac" minTarget="7.7" maxTarget="8.*">
+   <title lang="EN">RadiRuKo-Websocket</title>
+   <desc lang="EN">JCBA/FM++ Plugin</desc>
+   <desc lang="JA">JCBA/FM++プラグイン</desc>
    <creator>t-yoshi</creator>
-   <url>http://t-yoshi.github.io/RadiRuKo-Plugin/release/v8/RadiRuKoFmpp-8.1.0.zip</url>
+   <url>http://t-yoshi.github.io/RadiRuKo-Plugin/release/v8/RadiRuKoWs-8.1.1.zip</url>
    <link>https://github.com/t-yoshi/RadiRuKo-Plugin</link>
-   <sha>97652c7ffd573823d00f7b7ed7db4c619ff8d654</sha>
+   <sha>244baf5a68c6169bc1792950a10b0ab15e28a172</sha>
   </plugin>
     
   <plugin name="RadiRuKoRo" version="8.1.0" target="win|unix|mac" minTarget="7.7" maxTarget="8.*">
