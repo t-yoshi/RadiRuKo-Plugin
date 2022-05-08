@@ -5,54 +5,54 @@
  </details>
  <plugins>
    
-  <plugin name="RadiRuKo" version="8.2.0" target="win|unix|mac" minTarget="7.7" maxTarget="8.*">
+  <plugin name="RadiRuKo" version="8.2.1" target="win|unix|mac" minTarget="7.7" maxTarget="8.*">
    <title lang="EN">RadiRuKo-Basic</title>
    <desc lang="EN">Radiru and Radiko Plugin</desc>
    <desc lang="JA">らじるラジコ基本プラグイン</desc>
    <creator>t-yoshi</creator>
-   <url>https://t-yoshi.github.io/RadiRuKo-Plugin/release/v8/RadiRuKo-8.2.0.zip</url>
+   <url>https://t-yoshi.github.io/RadiRuKo-Plugin/release/v8/RadiRuKo-8.2.1.zip</url>
    <link>https://github.com/t-yoshi/RadiRuKo-Plugin</link>
-   <sha>7cb1968503ba60f03f75d482644a3bddeb3ebabb</sha>
+   <sha>6b1fbe7b431fc50421a936ff2a72b7c9a02a70c6</sha>
   </plugin>
     
-  <plugin name="RadiRuKoPr" version="8.2.0" target="win|unix|mac" minTarget="7.7" maxTarget="8.*">
+  <plugin name="RadiRuKoPr" version="8.2.1" target="win|unix|mac" minTarget="7.7" maxTarget="8.*">
    <title lang="EN">RadiRuKo-Premium</title>
    <desc lang="EN">Radiko Premium Plugin</desc>
    <desc lang="JA">ラジコプレミアムプラグイン</desc>
    <creator>t-yoshi</creator>
-   <url>https://t-yoshi.github.io/RadiRuKo-Plugin/release/v8/RadiRuKoPr-8.2.0.zip</url>
+   <url>https://t-yoshi.github.io/RadiRuKo-Plugin/release/v8/RadiRuKoPr-8.2.1.zip</url>
    <link>https://github.com/t-yoshi/RadiRuKo-Plugin</link>
-   <sha>d36f328cad84af87207f44b6c18c94e47b7e08ea</sha>
+   <sha>079b77d6d2f5fe8b5b87d106c7b5c06e167efb40</sha>
   </plugin>
     
-  <plugin name="RadiRuKoTf" version="8.2.0" target="win|unix|mac" minTarget="7.7" maxTarget="8.*">
+  <plugin name="RadiRuKoTf" version="8.2.1" target="win|unix|mac" minTarget="7.7" maxTarget="8.*">
    <title lang="EN">RadiRuKo-TimeFree</title>
    <desc lang="EN">Radiko TimeFree Plugin</desc>
    <desc lang="JA">ラジコタイムフリープラグイン</desc>
    <creator>t-yoshi</creator>
-   <url>https://t-yoshi.github.io/RadiRuKo-Plugin/release/v8/RadiRuKoTf-8.2.0.zip</url>
+   <url>https://t-yoshi.github.io/RadiRuKo-Plugin/release/v8/RadiRuKoTf-8.2.1.zip</url>
    <link>https://github.com/t-yoshi/RadiRuKo-Plugin</link>
-   <sha>ff6c8b3dde3a1f89371a5133f09b6aff850d5bf5</sha>
+   <sha>fcbda0d660c431defbe83e2fa346c2494e5dbebb</sha>
   </plugin>
     
-  <plugin name="RadiRuKoWs" version="8.2.0" target="win|unix|mac" minTarget="7.7" maxTarget="8.*">
+  <plugin name="RadiRuKoWs" version="8.2.1" target="win|unix|mac" minTarget="7.7" maxTarget="8.*">
    <title lang="EN">RadiRuKo-Websocket</title>
    <desc lang="EN">JCBA/FM++ Plugin</desc>
    <desc lang="JA">JCBA/FM++プラグイン</desc>
    <creator>t-yoshi</creator>
-   <url>https://t-yoshi.github.io/RadiRuKo-Plugin/release/v8/RadiRuKoWs-8.2.0.zip</url>
+   <url>https://t-yoshi.github.io/RadiRuKo-Plugin/release/v8/RadiRuKoWs-8.2.1.zip</url>
    <link>https://github.com/t-yoshi/RadiRuKo-Plugin</link>
-   <sha>3d8f1e9d6aca1f8e88e6999bdc286c2f0bb28e3d</sha>
+   <sha>281a2e4172fc256eda561ff0df31b8aacb1a7113</sha>
   </plugin>
     
-  <plugin name="RadiRuKoRo" version="8.2.0" target="win|unix|mac" minTarget="7.7" maxTarget="8.*">
+  <plugin name="RadiRuKoRo" version="8.2.1" target="win|unix|mac" minTarget="7.7" maxTarget="8.*">
    <title lang="EN">RadiRuKo-OnDemand</title>
    <desc lang="EN">Radiru OnDemand</desc>
    <desc lang="JA">らじる聴き逃しプラグイン</desc>
    <creator>t-yoshi</creator>
-   <url>https://t-yoshi.github.io/RadiRuKo-Plugin/release/v8/RadiRuKoRo-8.2.0.zip</url>
+   <url>https://t-yoshi.github.io/RadiRuKo-Plugin/release/v8/RadiRuKoRo-8.2.1.zip</url>
    <link>https://github.com/t-yoshi/RadiRuKo-Plugin</link>
-   <sha>057a7aece8da5026e504a6cd923c32a079e32094</sha>
+   <sha>6487067db055e7211d9dca3c681107cfd053feb1</sha>
   </plugin>
     
  </plugins>
