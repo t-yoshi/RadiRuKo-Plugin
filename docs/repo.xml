@@ -15,14 +15,14 @@
    <sha>6b1fbe7b431fc50421a936ff2a72b7c9a02a70c6</sha>
   </plugin>
     
-  <plugin name="RadiRuKoPr" version="8.2.1" target="win|unix|mac" minTarget="7.7" maxTarget="8.*">
+  <plugin name="RadiRuKoPr" version="8.2.2" target="win|unix|mac" minTarget="7.7" maxTarget="8.*">
    <title lang="EN">RadiRuKo-Premium</title>
    <desc lang="EN">Radiko Premium Plugin</desc>
    <desc lang="JA">ラジコプレミアムプラグイン</desc>
    <creator>t-yoshi</creator>
-   <url>https://t-yoshi.github.io/RadiRuKo-Plugin/release/v8/RadiRuKoPr-8.2.1.zip</url>
+   <url>https://t-yoshi.github.io/RadiRuKo-Plugin/release/v8/RadiRuKoPr-8.2.2.zip</url>
    <link>https://github.com/t-yoshi/RadiRuKo-Plugin</link>
-   <sha>079b77d6d2f5fe8b5b87d106c7b5c06e167efb40</sha>
+   <sha>893149a15988b0cd1f3b4a33a1eb260e13765609</sha>
   </plugin>
     
   <plugin name="RadiRuKoTf" version="8.2.1" target="win|unix|mac" minTarget="7.7" maxTarget="8.*">
