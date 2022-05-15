@@ -45,14 +45,14 @@
    <sha>281a2e4172fc256eda561ff0df31b8aacb1a7113</sha>
   </plugin>
     
-  <plugin name="RadiRuKoRo" version="8.2.1" target="win|unix|mac" minTarget="7.7" maxTarget="8.*">
+  <plugin name="RadiRuKoRo" version="8.2.2" target="win|unix|mac" minTarget="7.7" maxTarget="8.*">
    <title lang="EN">RadiRuKo-OnDemand</title>
    <desc lang="EN">Radiru OnDemand</desc>
    <desc lang="JA">らじる聴き逃しプラグイン</desc>
    <creator>t-yoshi</creator>
-   <url>https://t-yoshi.github.io/RadiRuKo-Plugin/release/v8/RadiRuKoRo-8.2.1.zip</url>
+   <url>https://t-yoshi.github.io/RadiRuKo-Plugin/release/v8/RadiRuKoRo-8.2.2.zip</url>
    <link>https://github.com/t-yoshi/RadiRuKo-Plugin</link>
-   <sha>6487067db055e7211d9dca3c681107cfd053feb1</sha>
+   <sha>349c3f418c980b68ba45ad6781544cbc891ec86d</sha>
   </plugin>
     
  </plugins>
