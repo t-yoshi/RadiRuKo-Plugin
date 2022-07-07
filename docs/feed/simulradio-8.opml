@@ -8,5 +8,6 @@
     <outline URL="https://t-yoshi.github.io/RadiRuKo-Plugin/feed/listenradio-8.opml" text="Listen Radio" icon="html/images/radio.png"/>
     <outline URL="https://t-yoshi.github.io/RadiRuKo-Plugin/feed/fmpp-8.opml" text="FM++" icon="html/images/radio.png"/>
     <outline URL="https://t-yoshi.github.io/RadiRuKo-Plugin/feed/csra-8.opml" title="CSRA" icon="html/images/radio.png"/>
+    <outline URL="https://t-yoshi.github.io/RadiRuKo-Plugin/feed/others-8.opml" title="Others" icon="html/images/radio.png"/>
   </body>
 </opml>
