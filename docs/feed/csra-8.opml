@@ -1,10 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <opml version="1.0">
-  <head title="CSRA (2022/07)" cachetime="3600">
+  <head title="CSRA (2022/08)" cachetime="3600">
     <expansionState/>
   </head>
   <body>
-    <outline text="RADIOワンダーストレージFMドラマシティ [札幌市厚別区]" URL="ffmpegaac:https://live.776.fm/live1/radiotxt.m3u8#simulradio=1;icon=https%3A%2F%2Fcsra.fm%2Flogo%2Fdramacity.png;title=RADIO%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%82%B8FM%E3%83%89%E3%83%A9%E3%83%9E%E3%82%B7%E3%83%86%E3%82%A3;--" icon="https://csra.fm/logo/dramacity.png" type="audio"/>
     <outline text="FMくしろ [釧路市]" URL="ffmpegpcm:mmsh://simuledge.shibapon.net/FmKushiro#simulradio=1;icon=https%3A%2F%2Fcsra.fm%2Flogo%2Ffm946.png;title=FM%E3%81%8F%E3%81%97%E3%82%8D;--" icon="https://csra.fm/logo/fm946.png" type="audio"/>
     <outline text="FMわっぴ〜 [稚内市]" URL="ffmpegpcm:mmsh://hdv5.nkansai.tv/wappy#simulradio=1;icon=https%3A%2F%2Fcsra.fm%2Flogo%2Fwappy761.png;title=FM%E3%82%8F%E3%81%A3%E3%81%B4%E3%80%9C;--" icon="https://csra.fm/logo/wappy761.png" type="audio"/>
     <outline text="FMりべーる [旭川市]" URL="ffmpegpcm:mmsh://simuledge.shibapon.net/fm837#simulradio=1;icon=https%3A%2F%2Fcsra.fm%2Flogo%2Ffm837.png;title=FM%E3%82%8A%E3%81%B9%E3%83%BC%E3%82%8B;--" icon="https://csra.fm/logo/fm837.png" type="audio"/>
@@ -14,7 +13,6 @@
     <outline text="FMいわき [いわき市]" URL="ffmpegpcm:mmsh://hdv2.nkansai.tv/seawave#simulradio=1;icon=https%3A%2F%2Fcsra.fm%2Flogo%2Ffm-iwaki.png;title=FM%E3%81%84%E3%82%8F%E3%81%8D;--" icon="https://csra.fm/logo/fm-iwaki.png" type="audio"/>
     <outline text="エフエム会津 [会津若松市]" URL="ffmpegpcm:mmsh://hdv3.nkansai.tv/aizu#simulradio=1;icon=https%3A%2F%2Fcsra.fm%2Flogo%2Ffmaizu.png;title=%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0%E4%BC%9A%E6%B4%A5;--" icon="https://csra.fm/logo/fmaizu.png" type="audio"/>
     <outline text="横手かまくらエフエム [横手市]" URL="ffmpegpcm:mmsh://hdv3.nkansai.tv/yokote#simulradio=1;icon=https%3A%2F%2Fcsra.fm%2Flogo%2Ffmyokote.png;title=%E6%A8%AA%E6%89%8B%E3%81%8B%E3%81%BE%E3%81%8F%E3%82%89%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0;--" icon="https://csra.fm/logo/fmyokote.png" type="audio"/>
-    <outline text="みやこハーバーラジオ [宮古市]" URL="ffmpegpcm:mmsh://hdv2.nkansai.tv/miyako#simulradio=1;icon=https%3A%2F%2Fcsra.fm%2Flogo%2Ffmmiyako.png;title=%E3%81%BF%E3%82%84%E3%81%93%E3%83%8F%E3%83%BC%E3%83%90%E3%83%BC%E3%83%A9%E3%82%B8%E3%82%AA;--" icon="https://csra.fm/logo/fmmiyako.png" type="audio"/>
     <outline text="ラジオ石巻 [石巻市]" URL="ffmpegpcm:mmsh://hdv2.nkansai.tv/ishinomaki#simulradio=1;icon=https%3A%2F%2Fcsra.fm%2Flogo%2Ffm764i.png;title=%E3%83%A9%E3%82%B8%E3%82%AA%E7%9F%B3%E5%B7%BB;--" icon="https://csra.fm/logo/fm764i.png" type="audio"/>
     <outline text="なとらじ [名取市]" URL="ffmpegpcm:mmsh://hdv2.nkansai.tv/natori#simulradio=1;icon=https%3A%2F%2Fcsra.fm%2Flogo%2Ffm_natori801mhz.png;title=%E3%81%AA%E3%81%A8%E3%82%89%E3%81%98;--" icon="https://csra.fm/logo/fm_natori801mhz.png" type="audio"/>
     <outline text="郡山コミュニティ放送 [郡山市]" URL="ffmpegpcm:mmsh://hdv2.nkansai.tv/kocofm#simulradio=1;icon=https%3A%2F%2Fcsra.fm%2Flogo%2Fkocofm.png;title=%E9%83%A1%E5%B1%B1%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E6%94%BE%E9%80%81;--" icon="https://csra.fm/logo/kocofm.png" type="audio"/>
@@ -36,10 +34,8 @@
     <outline text="調布FM [調布市]" URL="ffmpegpcm:mmsh://hdv3.nkansai.tv/chofu#simulradio=1;icon=https%3A%2F%2Fcsra.fm%2Flogo%2Fchofu-fm.png;title=%E8%AA%BF%E5%B8%83FM;--" icon="https://csra.fm/logo/chofu-fm.png" type="audio"/>
     <outline text="まえばしCITYエフエム [前橋市]" URL="ffmpegpcm:mmsh://radio.maebashi.fm:8080/mwave#simulradio=1;icon=https%3A%2F%2Fcsra.fm%2Flogo%2Fmaebashi.png;title=%E3%81%BE%E3%81%88%E3%81%B0%E3%81%97CITY%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0;--" icon="https://csra.fm/logo/maebashi.png" type="audio"/>
     <outline text="エフエムさがみ [相模原市]" URL="ffmpegpcm:rtsp://122.29.249.8/fmsagami_simul#simulradio=1;icon=https%3A%2F%2Fcsra.fm%2Flogo%2Ffmsagami.png;title=%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0%E3%81%95%E3%81%8C%E3%81%BF;--" icon="https://csra.fm/logo/fmsagami.png" type="audio"/>
-    <outline text="レインボータウンFM [江東区]" URL="ffmpegpcm:mmsh://hdv3.nkansai.tv/rainbowtown#simulradio=1;icon=https%3A%2F%2Fcsra.fm%2Flogo%2F792fm.png;title=%E3%83%AC%E3%82%A4%E3%83%B3%E3%83%9C%E3%83%BC%E3%82%BF%E3%82%A6%E3%83%B3FM;--" icon="https://csra.fm/logo/792fm.png" type="audio"/>
     <outline text="FM kaon [海老名市]" URL="ffmpegpcm:mmsh://hdv.nkansai.tv/kaon#simulradio=1;icon=https%3A%2F%2Fcsra.fm%2Flogo%2Ffmkaon.png;title=FM%20kaon;--" icon="https://csra.fm/logo/fmkaon.png" type="audio"/>
     <outline text="たかはぎFM [高萩市]" URL="ffmpegpcm:mmsh://hdv3.nkansai.tv/takahagi#simulradio=1;icon=https%3A%2F%2Fcsra.fm%2Flogo%2Ftakahagi.png;title=%E3%81%9F%E3%81%8B%E3%81%AF%E3%81%8EFM;--" icon="https://csra.fm/logo/takahagi.png" type="audio"/>
-    <outline text="FM Kawaguchi [川口市]" URL="ffmpegpcm:mmsh://hdv4.nkansai.tv/kawaguchi#simulradio=1;icon=https%3A%2F%2Fcsra.fm%2Flogo%2Fkawaguchi.png;title=FM%20Kawaguchi;--" icon="https://csra.fm/logo/kawaguchi.png" type="audio"/>
     <outline text="FM-UU [牛久市]" URL="ffmpegpcm:mmsh://hdv4.nkansai.tv/fmuu#simulradio=1;icon=https%3A%2F%2Fcsra.fm%2Flogo%2Ffmuu.png;title=FM-UU;--" icon="https://csra.fm/logo/fmuu.png" type="audio"/>
     <outline text="MID-FM [名古屋市中区]" URL="ffmpegpcm:mmsh://simuledge.shibapon.net/mid-fm761#simulradio=1;icon=https%3A%2F%2Fcsra.fm%2Flogo%2F761.png;title=MID-FM;--" icon="https://csra.fm/logo/761.png" type="audio"/>
     <outline text="FMおかざき [岡崎市]" URL="ffmpegpcm:mmsh://simuledge.shibapon.net/FmOkazaki#simulradio=1;icon=https%3A%2F%2Fcsra.fm%2Flogo%2Fokazaki.png;title=FM%E3%81%8A%E3%81%8B%E3%81%96%E3%81%8D;--" icon="https://csra.fm/logo/okazaki.png" type="audio"/>
@@ -54,7 +50,6 @@
     <outline text="京都リビングエフエム [京都市伏見区]" URL="ffmpegpcm:mmsh://simuledge.shibapon.net/KyotoLivingFM#simulradio=1;icon=https%3A%2F%2Fcsra.fm%2Flogo%2Ffm-845.png;title=%E4%BA%AC%E9%83%BD%E3%83%AA%E3%83%93%E3%83%B3%E3%82%B0%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0;--" icon="https://csra.fm/logo/fm-845.png" type="audio"/>
     <outline text="エフエムあまがさき [尼崎市]" URL="ffmpegpcm:mmsh://hdv.nkansai.tv/aiai#simulradio=1;icon=https%3A%2F%2Fcsra.fm%2Flogo%2Ffmaiai.png;title=%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0%E3%81%82%E3%81%BE%E3%81%8C%E3%81%95%E3%81%8D;--" icon="https://csra.fm/logo/fmaiai.png" type="audio"/>
     <outline text="京都三条ラジオカフェ [京都市中京区]" URL="ffmpegpcm:mmsh://hdv3.nkansai.tv/radiocafe#simulradio=1;icon=https%3A%2F%2Fcsra.fm%2Flogo%2Fradiocafe.png;title=%E4%BA%AC%E9%83%BD%E4%B8%89%E6%9D%A1%E3%83%A9%E3%82%B8%E3%82%AA%E3%82%AB%E3%83%95%E3%82%A7;--" icon="https://csra.fm/logo/radiocafe.png" type="audio"/>
-    <outline text="FMたんご [京丹後市]" URL="ffmpegpcm:mmsh://hdv4.nkansai.tv/tango#simulradio=1;icon=https%3A%2F%2Fcsra.fm%2Flogo%2Ffmtango.png;title=FM%E3%81%9F%E3%82%93%E3%81%94;--" icon="https://csra.fm/logo/fmtango.png" type="audio"/>
     <outline text="FM MOOV KOBE [神戸市]" URL="ffmpegpcm:mmsh://hdv4.nkansai.tv/fmmoov#simulradio=1;icon=https%3A%2F%2Fcsra.fm%2Flogo%2Ffmmoov.png;title=FM%20MOOV%20KOBE;--" icon="https://csra.fm/logo/fmmoov.png" type="audio"/>
     <outline text="RADIO MIX KYOTO [京都市北区]" URL="ffmpegpcm:mmsh://hdv5.nkansai.tv/radiomixkyoto#simulradio=1;icon=https%3A%2F%2Fcsra.fm%2Flogo%2Fradiomixkyoto.png;title=RADIO%20MIX%20KYOTO;--" icon="https://csra.fm/logo/radiomixkyoto.png" type="audio"/>
     <outline text="FM高松 [高松市]" URL="ffmpegpcm:mmsh://hdv4.nkansai.tv/takamatsu#simulradio=1;icon=https%3A%2F%2Fcsra.fm%2Flogo%2Ffm815.png;title=FM%E9%AB%98%E6%9D%BE;--" icon="https://csra.fm/logo/fm815.png" type="audio"/>
