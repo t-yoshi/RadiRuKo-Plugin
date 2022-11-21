@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <opml version="1.0">
-  <head title="JCBA (2022/10)" cachetime="3600">
+  <head title="JCBA" cachetime="3600">
     <expansionState/>
   </head>
   <body>
@@ -109,7 +109,7 @@
     <outline text="805たんば [兵庫県]" URL="jcba://tanba/#simulradio=1;icon=https%3A%2F%2Fradimo.s3.amazonaws.com%2Flogo%2Fbfce4b87a1ff855612a633b167b6c66e34eec344cf0b6a76398ded9a381477b0.jpg;title=805%E3%81%9F%E3%82%93%E3%81%B0;--" icon="https://radimo.s3.amazonaws.com/logo/bfce4b87a1ff855612a633b167b6c66e34eec344cf0b6a76398ded9a381477b0.jpg" type="audio"/>
     <outline text="FM GENKI [兵庫県]" URL="jcba://fmgenki/#simulradio=1;icon=https%3A%2F%2Fradimo.s3.amazonaws.com%2Flogo%2F6ca54d989f023b091fc1ef00f404d96388b7a93609a9fcba69323983b36ee550.jpg;title=FM%20GENKI;--" icon="https://radimo.s3.amazonaws.com/logo/6ca54d989f023b091fc1ef00f404d96388b7a93609a9fcba69323983b36ee550.jpg" type="audio"/>
     <outline text="なら どっと ＦＭ [奈良県]" URL="jcba://narafm/#simulradio=1;icon=https%3A%2F%2Fradimo.s3.amazonaws.com%2Flogo%2F3b7090a10c8a2a780db379a978b3e765485d82ae3ba64096c8a42f30d9e89d42.png;title=%E3%81%AA%E3%82%89%20%E3%81%A9%E3%81%A3%E3%81%A8%20%EF%BC%A6%EF%BC%AD;--" icon="https://radimo.s3.amazonaws.com/logo/3b7090a10c8a2a780db379a978b3e765485d82ae3ba64096c8a42f30d9e89d42.png" type="audio"/>
-    <outline text="エフエムハイホー [奈良県]" URL="jcba://fmnishiyamato/#simulradio=1;icon=https%3A%2F%2Fradimo.s3.amazonaws.com%2Flogo%2F555b72ab900ebca86224db767319588f4030f5b2e7430155783fd3b3470e1f76.png;title=%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0%E3%83%8F%E3%82%A4%E3%83%9B%E3%83%BC;--" icon="https://radimo.s3.amazonaws.com/logo/555b72ab900ebca86224db767319588f4030f5b2e7430155783fd3b3470e1f76.png" type="audio"/>
+    <outline text="エフエムハイホー [奈良県]" URL="jcba://fmnishiyamato/#simulradio=1;icon=https%3A%2F%2Fradimo.s3.amazonaws.com%2Flogo%2F244096e30db7ede1fcdbe33efa3327f5698e02ab77ee41c0cc66e07a7faa171e.png;title=%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0%E3%83%8F%E3%82%A4%E3%83%9B%E3%83%BC;--" icon="https://radimo.s3.amazonaws.com/logo/244096e30db7ede1fcdbe33efa3327f5698e02ab77ee41c0cc66e07a7faa171e.png" type="audio"/>
     <outline text="ＦＭ五條 [奈良県]" URL="jcba://fmgojo/#simulradio=1;icon=https%3A%2F%2Fradimo.s3.amazonaws.com%2Flogo%2F1193fdcb8a05f3f7548e3c28c3aeb3723c73cd8a8e9d63bbbcb954495b66566d.jpg;title=%EF%BC%A6%EF%BC%AD%E4%BA%94%E6%A2%9D;--" icon="https://radimo.s3.amazonaws.com/logo/1193fdcb8a05f3f7548e3c28c3aeb3723c73cd8a8e9d63bbbcb954495b66566d.jpg" type="audio"/>
     <outline text="バナナエフエム [和歌山県]" URL="jcba://bananafm/#simulradio=1;icon=https%3A%2F%2Fradimo.s3.amazonaws.com%2Flogo%2Fd6f2307a925a32f19b82179260c58c306ac312b9f48f07f5501eebdd3ef73c9e.jpg;title=%E3%83%90%E3%83%8A%E3%83%8A%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0;--" icon="https://radimo.s3.amazonaws.com/logo/d6f2307a925a32f19b82179260c58c306ac312b9f48f07f5501eebdd3ef73c9e.jpg" type="audio"/>
     <outline text="FM TANABE [和歌山県]" URL="jcba://fmtanabe/#simulradio=1;icon=https%3A%2F%2Fradimo.s3.amazonaws.com%2Flogo%2F5387e1bcad6277d13a04f40b1d50dbcf3fae9fb89a90c63cc1cb3e57d2d109d7.jpg;title=FM%20TANABE;--" icon="https://radimo.s3.amazonaws.com/logo/5387e1bcad6277d13a04f40b1d50dbcf3fae9fb89a90c63cc1cb3e57d2d109d7.jpg" type="audio"/>
