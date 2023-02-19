@@ -52,7 +52,7 @@ td, th {
 
 """, file=out)
 
-  print_dir("release/v8/*.zip")
+  print_dir("release/v9/*.zip")
   print("\n<br><br>\n", file=out)
   #print_dir("release/src/*")
 
