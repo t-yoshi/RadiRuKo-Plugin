@@ -10,9 +10,9 @@
    <desc lang="EN">Radiru and Radiko Plugin</desc>
    <desc lang="JA">らじるラジコ基本プラグイン</desc>
    <creator>t-yoshi</creator>
-   <url>https://t-yoshi.github.io/RadiRuKo-Plugin/release/v9/RadiRuKo-9.0.0.zip</url>
+   <url>https://t-yoshi.github.io/RadiRuKo-Plugin/release/v9/RadiRuKo-9.0.1.zip</url>
    <link>https://github.com/t-yoshi/RadiRuKo-Plugin</link>
-   <sha>947584379e8e3b5a4218ee2100ccf92ea53bf28d</sha>
+   <sha>e879e0f5b91cf2e5d3b2f69c0e79d3c1d14ca594</sha>
   </plugin>
     
   <plugin name="RadiRuKoPr" version="9.0.0" target="win|unix|mac" minTarget="7.7" >
