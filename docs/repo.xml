@@ -5,7 +5,7 @@
  </details>
  <plugins>
    
-  <plugin name="RadiRuKo" version="9.0.0" target="win|unix|mac" minTarget="7.7" >
+  <plugin name="RadiRuKo" version="9.0.1" target="win|unix|mac" minTarget="7.7" >
    <title lang="EN">RadiRuKo-Basic</title>
    <desc lang="EN">Radiru and Radiko Plugin</desc>
    <desc lang="JA">らじるラジコ基本プラグイン</desc>
