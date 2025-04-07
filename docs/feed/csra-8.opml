@@ -45,6 +45,6 @@
     <outline text="あまみFM [奄美市]" URL="ffmpegpcm:mmsh://hdv.nkansai.tv/amami#simulradio=1;icon=https%3A%2F%2Fcsra.fm%2Flogo%2Fnpo-d.png;title=%E3%81%82%E3%81%BE%E3%81%BFFM;--" icon="https://csra.fm/logo/npo-d.png" type="audio"/>
     <outline text="スターコーンFM [築上郡築上町]" URL="ffmpegpcm:mmsh://hdv.nkansai.tv/starcorn#simulradio=1;icon=https%3A%2F%2Fcsra.fm%2Flogo%2Fstarcornfm.png;title=%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B3%E3%83%BC%E3%83%B3FM;--" icon="https://csra.fm/logo/starcornfm.png" type="audio"/>
     <outline text="FM21 [浦添市]" URL="ffmpegpcm:mmsh://hdv4.nkansai.tv/fm21#simulradio=1;icon=https%3A%2F%2Fcsra.fm%2Flogo%2Ffm21.png;title=FM21;--" icon="https://csra.fm/logo/fm21.png" type="audio"/>
-    <outline text="FMレキオ [那覇市]" URL="ffmpegpcm:rtsp://hdv4.nkansai.tv/lequio#simulradio=1;icon=https%3A%2F%2Fcsra.fm%2Flogo%2Ffmlequio.png;title=FM%E3%83%AC%E3%82%AD%E3%82%AA;--" icon="https://csra.fm/logo/fmlequio.png" type="audio"/>
+    <outline text="FMレキオ [那覇市]" URL="ffmpegpcm:mmsh://hdv4.nkansai.tv/lequio#simulradio=1;icon=https%3A%2F%2Fcsra.fm%2Flogo%2Ffmlequio.png;title=FM%E3%83%AC%E3%82%AD%E3%82%AA;--" icon="https://csra.fm/logo/fmlequio.png" type="audio"/>
   </body>
 </opml>
