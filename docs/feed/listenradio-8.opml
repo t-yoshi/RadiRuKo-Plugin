@@ -4,7 +4,6 @@
     <expansionState/>
   </head>
   <body>
-    <outline text="ﾘｽﾗｼﾞﾌﾟﾚﾐｱﾑ" URL="ffmpegpcm:http://mtist.as.smartstream.ne.jp/20006/livestream/playlist.m3u8#simulradio=1;icon=http%3A%2F%2Flistenradio.jp%2Fimg%2Frslogo%2F20006r.png;title=%EF%BE%98%EF%BD%BD%EF%BE%97%EF%BD%BC%EF%BE%9E%EF%BE%8C%EF%BE%9F%EF%BE%9A%EF%BE%90%EF%BD%B1%EF%BE%91;--" icon="http://listenradio.jp/img/rslogo/20006r.png" type="audio"/>
     <outline text="かしみんFM" URL="ffmpegaac:http://mtist.as.smartstream.ne.jp/30042/livestream/playlist.m3u8#simulradio=1;icon=http%3A%2F%2Flistenradio.jp%2Fimg%2Frslogo%2F30042r.png;title=%E3%81%8B%E3%81%97%E3%81%BF%E3%82%93FM;--" icon="http://listenradio.jp/img/rslogo/30042r.png" type="audio"/>
     <outline text="たこみんFM" URL="ffmpegpcm:http://mtist.as.smartstream.ne.jp/30041/livestream/playlist.m3u8#simulradio=1;icon=http%3A%2F%2Flistenradio.jp%2Fimg%2Frslogo%2F30041r.png;title=%E3%81%9F%E3%81%93%E3%81%BF%E3%82%93FM;--" icon="http://listenradio.jp/img/rslogo/30041r.png" type="audio"/>
     <outline text="FM ABASHIRI" URL="ffmpegpcm:http://mtist.as.smartstream.ne.jp/30058/livestream/playlist.m3u8#simulradio=1;icon=http%3A%2F%2Flistenradio.jp%2Fimg%2Frslogo%2F30058r.png;title=FM%20ABASHIRI;--" icon="http://listenradio.jp/img/rslogo/30058r.png" type="audio"/>
