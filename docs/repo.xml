@@ -5,14 +5,14 @@
  </details>
  <plugins>
    
-  <plugin name="RadiRuKo" version="9.1.0" target="win|unix|mac" minTarget="8.2" >
+  <plugin name="RadiRuKo" version="9.1.2" target="win|unix|mac" minTarget="8.2" >
    <title lang="EN">RadiRuKo-Basic</title>
    <desc lang="EN">Radiru and Radiko Plugin</desc>
    <desc lang="JA">らじるラジコ基本プラグイン</desc>
    <creator>t-yoshi</creator>
-   <url>https://t-yoshi.github.io/RadiRuKo-Plugin/release/v9/RadiRuKo-9.1.0.zip</url>
+   <url>https://t-yoshi.github.io/RadiRuKo-Plugin/release/v9/RadiRuKo-9.1.2.zip</url>
    <link>https://github.com/t-yoshi/RadiRuKo-Plugin</link>
-   <sha>c4ea2c23be1603d86c71df1f9ac51b96d02ae056</sha>
+   <sha>3661dbf17ee9162dce4c6f73b81171aaffc7c104</sha>
   </plugin>
     
   <plugin name="RadiRuKoPr" version="9.1.0" target="win|unix|mac" minTarget="8.2" >
@@ -25,14 +25,14 @@
    <sha>41d1fcab00919bdf7cf2841d3c95029abd8e8756</sha>
   </plugin>
     
-  <plugin name="RadiRuKoTf" version="9.1.0" target="win|unix|mac" minTarget="8.2" >
+  <plugin name="RadiRuKoTf" version="9.1.2" target="win|unix|mac" minTarget="8.2" >
    <title lang="EN">RadiRuKo-TimeFree</title>
    <desc lang="EN">Radiko TimeFree Plugin</desc>
    <desc lang="JA">ラジコタイムフリープラグイン</desc>
    <creator>t-yoshi</creator>
-   <url>https://t-yoshi.github.io/RadiRuKo-Plugin/release/v9/RadiRuKoTf-9.1.0.zip</url>
+   <url>https://t-yoshi.github.io/RadiRuKo-Plugin/release/v9/RadiRuKoTf-9.1.2.zip</url>
    <link>https://github.com/t-yoshi/RadiRuKo-Plugin</link>
-   <sha>67ec665bf94d7ad93bc72766058bd8360073bb49</sha>
+   <sha>cf3e7c789ef6f88c4ba41ded1c8368ed2d8a3df0</sha>
   </plugin>
     
   <plugin name="RadiRuKoFf" version="9.1.0" target="win|unix" minTarget="8.2" >
