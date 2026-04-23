@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ASX version="3.0">
+  <TITLE>ＦＭくめじま</TITLE>
+  <AUTHOR>ＦＭくめじま</AUTHOR>
+  <MoreInfo href="http://fmkumejima.com/"/>
+  <Entry>
+    <ref href="http://hdv3.nkansai.tv/kumejima"/>
+    <MoreInfo href="http://fmkumejima.com/"/>
+  </Entry>
+</ASX>
