@@ -5,7 +5,7 @@
  </details>
  <plugins>
    
-  <plugin name="RadiRuKo" version="9.2.0" target="win|unix|mac" minTarget="8.2" >
+  <plugin name="RadiRuKo" version="9.2.0" target="win|unix|mac" minTarget="8.5" >
    <title lang="EN">RadiRuKo-Basic</title>
    <desc lang="EN">Radiru and Radiko Plugin</desc>
    <desc lang="JA">らじるラジコ基本プラグイン</desc>
@@ -15,7 +15,7 @@
    <sha>51463d204b03c528db80d4645f0570cd83552f9f</sha>
   </plugin>
     
-  <plugin name="RadiRuKoPr" version="9.2.0" target="win|unix|mac" minTarget="8.2" >
+  <plugin name="RadiRuKoPr" version="9.2.0" target="win|unix|mac" minTarget="8.5" >
    <title lang="EN">RadiRuKo-AreaFree</title>
    <desc lang="EN">Radiko Area-Free Plugin</desc>
    <desc lang="JA">ラジコエリアフリープラグイン</desc>
@@ -25,7 +25,7 @@
    <sha>ed8080bda16169701e48265088f0de7da7abbb76</sha>
   </plugin>
     
-  <plugin name="RadiRuKoTf" version="9.2.0" target="win|unix|mac" minTarget="8.2" >
+  <plugin name="RadiRuKoTf" version="9.2.0" target="win|unix|mac" minTarget="8.5" >
    <title lang="EN">RadiRuKo-TimeFree</title>
    <desc lang="EN">Radiko TimeFree Plugin</desc>
    <desc lang="JA">ラジコタイムフリープラグイン</desc>
@@ -35,7 +35,7 @@
    <sha>7e6e797545c73961cb431a8aee6579d1bfdd3c77</sha>
   </plugin>
     
-  <plugin name="RadiRuKoFf" version="9.2.0" target="win|unix" minTarget="8.2" >
+  <plugin name="RadiRuKoFf" version="9.2.0" target="win|unix" minTarget="8.5" >
    <title lang="EN">RadiRuKo-FFmpeg</title>
    <desc lang="EN">FFmpeg binary files</desc>
    <desc lang="JA">らじるこ用FFmpegファイル</desc>
@@ -45,7 +45,7 @@
    <sha>3c817df95245b691be4b2e148ccdca81b8ebc577</sha>
   </plugin>
     
-  <plugin name="RadiRuKoRo" version="9.2.0" target="win|unix|mac" minTarget="8.2" >
+  <plugin name="RadiRuKoRo" version="9.2.0" target="win|unix|mac" minTarget="8.5" >
    <title lang="EN">RadiRuKo-OnDemand</title>
    <desc lang="EN">Radiru OnDemand</desc>
    <desc lang="JA">らじる聴き逃しプラグイン</desc>
